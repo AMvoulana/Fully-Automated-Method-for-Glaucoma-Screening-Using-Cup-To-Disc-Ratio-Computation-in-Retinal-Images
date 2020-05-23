@@ -1,0 +1,23 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{CDR-based glaucoma screening related works}{}% 2
+\BOOKMARK [1][-]{section.3}{Proposed Method}{}% 3
+\BOOKMARK [2][-]{subsection.3.1}{Optic disc detection and ROI extraction}{section.3}% 4
+\BOOKMARK [3][-]{subsubsection.3.1.1}{Detection of bright regions}{subsection.3.1}% 5
+\BOOKMARK [3][-]{subsubsection.3.1.2}{Template Matching}{subsection.3.1}% 6
+\BOOKMARK [2][-]{subsection.3.2}{Optic cup and optic disc segmentation}{section.3}% 7
+\BOOKMARK [3][-]{subsubsection.3.2.1}{Texture-based pixel classification}{subsection.3.2}% 8
+\BOOKMARK [3][-]{subsubsection.3.2.2}{Model-based boundary fitting}{subsection.3.2}% 9
+\BOOKMARK [2][-]{subsection.3.3}{CDR calculation}{section.3}% 10
+\BOOKMARK [2][-]{subsection.3.4}{Glaucoma screening}{section.3}% 11
+\BOOKMARK [1][-]{section.4}{Materials and Results}{}% 12
+\BOOKMARK [2][-]{subsection.4.1}{Materials}{section.4}% 13
+\BOOKMARK [3][-]{subsubsection.4.1.1}{Databases}{subsection.4.1}% 14
+\BOOKMARK [3][-]{subsubsection.4.1.2}{Evaluation metrics}{subsection.4.1}% 15
+\BOOKMARK [2][-]{subsection.4.2}{Results}{section.4}% 16
+\BOOKMARK [3][-]{subsubsection.4.2.1}{Computation efficiency}{subsection.4.2}% 17
+\BOOKMARK [3][-]{subsubsection.4.2.2}{OD detection and ROI extraction}{subsection.4.2}% 18
+\BOOKMARK [3][-]{subsubsection.4.2.3}{OC and OD segmentation}{subsection.4.2}% 19
+\BOOKMARK [3][-]{subsubsection.4.2.4}{Glaucoma screening}{subsection.4.2}% 20
+\BOOKMARK [3][-]{subsubsection.4.2.5}{Computation time}{subsection.4.2}% 21
+\BOOKMARK [1][-]{section.5}{Discussion}{}% 22
+\BOOKMARK [1][-]{section.6}{Conclusion and perspectives}{}% 23

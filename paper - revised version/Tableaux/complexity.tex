@@ -1,0 +1,25 @@
+\begin{table}[h]
+	\begin{center}
+		\small
+		
+		\renewcommand{\arraystretch}{1}
+	
+		\begin{tabular}{c c c}
+			\hline 
+			Functions & Parameters & Time complexity \\
+			\hline
+			Otsu'thresholding & Number of gray levels $L$ & $\mathcal{O}(L^2)$ \\
+			Euclidean distance transform & Size of the image $N$ & $\mathcal{O}(N^2)$ \\
+			Extract values (max) & length of the list $l$ & $\mathcal{O}(l)$ \\
+			Template Matching & Number of histogram bins $H$ & $\mathcal{O}(H^2)$ \\
+			
+			K-means clustering & Size of the crop $m$, number of clusters $K$, distance $D$ & $\mathcal{O}(KDm^2)$ \\
+			Circular Hough Transform & Size of the crop $m$ & $\mathcal{O}(m^2)$ \\
+			
+			\hline
+			
+		\end{tabular}
+		
+	\end{center}
+	\caption{\label{complexity}Overview of the worst-case time complexity of the computed functions for glaucoma screening.}
+\end{table}

@@ -1,0 +1,1793 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2019.3.1)  7 AUG 2019 17:00
+entering extended mode
+**./main.tex
+(main.tex
+LaTeX2e <2018-12-01>
+
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/latex/elsarticle
+\elsarticle.cls"
+Document Class: elsarticle 2019/01/14, 3.1: Elsevier Ltd
+\@bls=\dimen102
+
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\artic
+le.cls"
+Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
+
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size1
+0.clo"
+File: size10.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen103
+)
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\g
+raphicx.sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\k
+eyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\g
+raphics.sty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\t
+rig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-c
+fg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-d
+ef\pdftex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen104
+\Gin@req@width=\dimen105
+)
+\c@tnote=\count88
+\c@fnote=\count89
+\c@cnote=\count90
+\c@ead=\count91
+\c@author=\count92
+\@eadauthor=\toks15
+\c@affn=\count93
+\absbox=\box27
+\keybox=\box28
+\Columnwidth=\dimen106
+\space@left=\dimen107
+\els@boxa=\box29
+\els@boxb=\box30
+\leftMargin=\dimen108
+\@enLab=\toks16
+\@sep=\skip43
+\@@sep=\skip44
+ (main.spl)
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/latex/natbib\nat
+bib.sty"
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip45
+\bibsep=\skip46
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count94
+)
+\splwrite=\write3
+\openout3 = `main.spl'.
+
+\appnamewidth=\dimen109
+)
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\input
+enc.sty"
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks17
+\inpenc@posthook=\toks18
+)
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\h
+yperref.sty"
+Package: hyperref 2018/11/30 v6.88e Hypertext links for LaTeX
+
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek
+\hobsub-hyperref.sty"
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+
+
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek
+\hobsub-generic.sty"
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
+)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+)
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/generic/ifxetex\
+ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\a
+uxhook.sty"
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\k
+voptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+)
+\@linkdim=\dimen110
+\Hy@linkcounter=\count95
+\Hy@pagecounter=\count96
+
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\p
+d1enc.def"
+File: pd1enc.def 2018/11/30 v6.88e Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+\Hy@SavedSpaceFactor=\count97
+
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/latex/00miktex\h
+yperref.cfg"
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Hyper figures OFF on input line 4519.
+Package hyperref Info: Link nesting OFF on input line 4524.
+Package hyperref Info: Hyper index ON on input line 4527.
+Package hyperref Info: Plain pages OFF on input line 4534.
+Package hyperref Info: Backreferencing OFF on input line 4539.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4772.
+\c@Hy@tempcnt=\count98
+
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/latex/url\url.st
+y"
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5125.
+\XeTeXLinkMargin=\dimen111
+\Fld@menulength=\count99
+\Field@Width=\dimen112
+\Fld@charsize=\dimen113
+Package hyperref Info: Hyper figures OFF on input line 6380.
+Package hyperref Info: Link nesting OFF on input line 6385.
+Package hyperref Info: Hyper index ON on input line 6388.
+Package hyperref Info: backreferencing OFF on input line 6395.
+Package hyperref Info: Link coloring OFF on input line 6400.
+Package hyperref Info: Link coloring with OCG OFF on input line 6405.
+Package hyperref Info: PDF/A mode OFF on input line 6410.
+LaTeX Info: Redefining \ref on input line 6450.
+LaTeX Info: Redefining \pageref on input line 6454.
+\Hy@abspage=\count100
+\c@Item=\count101
+\c@Hfootnote=\count102
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\h
+pdftex.def"
+File: hpdftex.def 2018/11/30 v6.88e Hyperref driver for pdfTeX
+\Fld@listcount=\count103
+\c@bookmark@seq@number=\count104
+
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\r
+erunfilecheck.sty"
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip47
+)
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/fronte
+ndlayer\tikz.sty"
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/basicl
+ayer\pgf.sty"
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/utilit
+ies\pgfrcs.sty"
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/util
+ities\pgfutil-common.tex"
+\pgfutil@everybye=\toks19
+\pgfutil@tempdima=\dimen114
+\pgfutil@tempdimb=\dimen115
+
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/util
+ities\pgfutil-common-lists.tex"))
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/util
+ities\pgfutil-latex.def"
+\pgfutil@abb=\box31
+
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ms\everysh
+i.sty"
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/util
+ities\pgfrcs.code.tex"
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf\pgf.
+revision.tex")
+Package: pgfrcs 2019/02/02 v3.1.1 (3.1.1)
+))
+Package: pgf 2019/02/02 v3.1.1 (3.1.1)
+
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/basicl
+ayer\pgfcore.sty"
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/system
+layer\pgfsys.sty"
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/syst
+emlayer\pgfsys.code.tex"
+Package: pgfsys 2019/02/02 v3.1.1 (3.1.1)
+
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/util
+ities\pgfkeys.code.tex"
+\pgfkeys@pathtoks=\toks20
+\pgfkeys@temptoks=\toks21
+
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/util
+ities\pgfkeysfiltered.code.tex"
+\pgfkeys@tmptoks=\toks22
+))
+\pgf@x=\dimen116
+\pgf@y=\dimen117
+\pgf@xa=\dimen118
+\pgf@ya=\dimen119
+\pgf@xb=\dimen120
+\pgf@yb=\dimen121
+\pgf@xc=\dimen122
+\pgf@yc=\dimen123
+\w@pgf@writea=\write4
+\r@pgf@reada=\read1
+\c@pgf@counta=\count105
+\c@pgf@countb=\count106
+\c@pgf@countc=\count107
+\c@pgf@countd=\count108
+\t@pgf@toka=\toks23
+\t@pgf@tokb=\toks24
+\t@pgf@tokc=\toks25
+\pgf@sys@id@count=\count109
+
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/syst
+emlayer\pgf.cfg"
+File: pgf.cfg 2019/02/02 v3.1.1 (3.1.1)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/syst
+emlayer\pgfsys-pdftex.def"
+File: pgfsys-pdftex.def 2019/02/02 v3.1.1 (3.1.1)
+
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/syst
+emlayer\pgfsys-common-pdf.def"
+File: pgfsys-common-pdf.def 2019/02/02 v3.1.1 (3.1.1)
+)))
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/syst
+emlayer\pgfsyssoftpath.code.tex"
+File: pgfsyssoftpath.code.tex 2019/02/02 v3.1.1 (3.1.1)
+\pgfsyssoftpath@smallbuffer@items=\count110
+\pgfsyssoftpath@bigbuffer@items=\count111
+)
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/syst
+emlayer\pgfsysprotocol.code.tex"
+File: pgfsysprotocol.code.tex 2019/02/02 v3.1.1 (3.1.1)
+))
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xcolor\xco
+lor.sty"
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-c
+fg\color.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basi
+clayer\pgfcore.code.tex"
+Package: pgfcore 2019/02/02 v3.1.1 (3.1.1)
+
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math
+\pgfmath.code.tex"
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math
+\pgfmathcalc.code.tex"
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math
+\pgfmathutil.code.tex")
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math
+\pgfmathparser.code.tex"
+\pgfmath@dimen=\dimen124
+\pgfmath@count=\count112
+\pgfmath@box=\box32
+\pgfmath@toks=\toks26
+\pgfmath@stack@operand=\toks27
+\pgfmath@stack@operation=\toks28
+)
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math
+\pgfmathfunctions.code.tex"
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math
+\pgfmathfunctions.basic.code.tex")
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math
+\pgfmathfunctions.trigonometric.code.tex")
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math
+\pgfmathfunctions.random.code.tex")
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math
+\pgfmathfunctions.comparison.code.tex")
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math
+\pgfmathfunctions.base.code.tex")
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math
+\pgfmathfunctions.round.code.tex")
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math
+\pgfmathfunctions.misc.code.tex")
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math
+\pgfmathfunctions.integerarithmetics.code.tex")))
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math
+\pgfmathfloat.code.tex"
+\c@pgfmathroundto@lastzeros=\count113
+))
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basi
+clayer\pgfcorepoints.code.tex"
+File: pgfcorepoints.code.tex 2019/02/02 v3.1.1 (3.1.1)
+\pgf@picminx=\dimen125
+\pgf@picmaxx=\dimen126
+\pgf@picminy=\dimen127
+\pgf@picmaxy=\dimen128
+\pgf@pathminx=\dimen129
+\pgf@pathmaxx=\dimen130
+\pgf@pathminy=\dimen131
+\pgf@pathmaxy=\dimen132
+\pgf@xx=\dimen133
+\pgf@xy=\dimen134
+\pgf@yx=\dimen135
+\pgf@yy=\dimen136
+\pgf@zx=\dimen137
+\pgf@zy=\dimen138
+)
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basi
+clayer\pgfcorepathconstruct.code.tex"
+File: pgfcorepathconstruct.code.tex 2019/02/02 v3.1.1 (3.1.1)
+\pgf@path@lastx=\dimen139
+\pgf@path@lasty=\dimen140
+)
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basi
+clayer\pgfcorepathusage.code.tex"
+File: pgfcorepathusage.code.tex 2019/02/02 v3.1.1 (3.1.1)
+\pgf@shorten@end@additional=\dimen141
+\pgf@shorten@start@additional=\dimen142
+)
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basi
+clayer\pgfcorescopes.code.tex"
+File: pgfcorescopes.code.tex 2019/02/02 v3.1.1 (3.1.1)
+\pgfpic=\box33
+\pgf@hbox=\box34
+\pgf@layerbox@main=\box35
+\pgf@picture@serial@count=\count114
+)
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basi
+clayer\pgfcoregraphicstate.code.tex"
+File: pgfcoregraphicstate.code.tex 2019/02/02 v3.1.1 (3.1.1)
+\pgflinewidth=\dimen143
+)
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basi
+clayer\pgfcoretransformations.code.tex"
+File: pgfcoretransformations.code.tex 2019/02/02 v3.1.1 (3.1.1)
+\pgf@pt@x=\dimen144
+\pgf@pt@y=\dimen145
+\pgf@pt@temp=\dimen146
+)
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basi
+clayer\pgfcorequick.code.tex"
+File: pgfcorequick.code.tex 2019/02/02 v3.1.1 (3.1.1)
+)
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basi
+clayer\pgfcoreobjects.code.tex"
+File: pgfcoreobjects.code.tex 2019/02/02 v3.1.1 (3.1.1)
+)
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basi
+clayer\pgfcorepathprocessing.code.tex"
+File: pgfcorepathprocessing.code.tex 2019/02/02 v3.1.1 (3.1.1)
+)
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basi
+clayer\pgfcorearrows.code.tex"
+File: pgfcorearrows.code.tex 2019/02/02 v3.1.1 (3.1.1)
+\pgfarrowsep=\dimen147
+)
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basi
+clayer\pgfcoreshade.code.tex"
+File: pgfcoreshade.code.tex 2019/02/02 v3.1.1 (3.1.1)
+\pgf@max=\dimen148
+\pgf@sys@shading@range@num=\count115
+)
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basi
+clayer\pgfcoreimage.code.tex"
+File: pgfcoreimage.code.tex 2019/02/02 v3.1.1 (3.1.1)
+
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basi
+clayer\pgfcoreexternal.code.tex"
+File: pgfcoreexternal.code.tex 2019/02/02 v3.1.1 (3.1.1)
+\pgfexternal@startupbox=\box36
+))
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basi
+clayer\pgfcorelayers.code.tex"
+File: pgfcorelayers.code.tex 2019/02/02 v3.1.1 (3.1.1)
+)
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basi
+clayer\pgfcoretransparency.code.tex"
+File: pgfcoretransparency.code.tex 2019/02/02 v3.1.1 (3.1.1)
+)
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basi
+clayer\pgfcorepatterns.code.tex"
+File: pgfcorepatterns.code.tex 2019/02/02 v3.1.1 (3.1.1)
+)
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basi
+clayer\pgfcorerdf.code.tex"
+File: pgfcorerdf.code.tex 2019/02/02 v3.1.1 (3.1.1)
+)))
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/modu
+les\pgfmoduleshapes.code.tex"
+File: pgfmoduleshapes.code.tex 2019/02/02 v3.1.1 (3.1.1)
+\pgfnodeparttextbox=\box37
+)
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/modu
+les\pgfmoduleplot.code.tex"
+File: pgfmoduleplot.code.tex 2019/02/02 v3.1.1 (3.1.1)
+)
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/compat
+ibility\pgfcomp-version-0-65.sty"
+Package: pgfcomp-version-0-65 2019/02/02 v3.1.1 (3.1.1)
+\pgf@nodesepstart=\dimen149
+\pgf@nodesepend=\dimen150
+)
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/compat
+ibility\pgfcomp-version-1-18.sty"
+Package: pgfcomp-version-1-18 2019/02/02 v3.1.1 (3.1.1)
+))
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/utilit
+ies\pgffor.sty"
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/utilit
+ies\pgfkeys.sty"
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/util
+ities\pgfkeys.code.tex"))
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/math\p
+gfmath.sty"
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math
+\pgfmath.code.tex"))
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/util
+ities\pgffor.code.tex"
+Package: pgffor 2019/02/02 v3.1.1 (3.1.1)
+
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math
+\pgfmath.code.tex")
+\pgffor@iter=\dimen151
+\pgffor@skip=\dimen152
+\pgffor@stack=\toks29
+\pgffor@toks=\toks30
+))
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/fron
+tendlayer/tikz\tikz.code.tex"
+Package: tikz 2019/02/02 v3.1.1 (3.1.1)
+
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/libr
+aries\pgflibraryplothandlers.code.tex"
+File: pgflibraryplothandlers.code.tex 2019/02/02 v3.1.1 (3.1.1)
+\pgf@plot@mark@count=\count116
+\pgfplotmarksize=\dimen153
+)
+\tikz@lastx=\dimen154
+\tikz@lasty=\dimen155
+\tikz@lastxsaved=\dimen156
+\tikz@lastysaved=\dimen157
+\tikzleveldistance=\dimen158
+\tikzsiblingdistance=\dimen159
+\tikz@figbox=\box38
+\tikz@figbox@bg=\box39
+\tikz@tempbox=\box40
+\tikz@tempbox@bg=\box41
+\tikztreelevel=\count117
+\tikznumberofchildren=\count118
+\tikznumberofcurrentchild=\count119
+\tikz@fig@count=\count120
+
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/modu
+les\pgfmodulematrix.code.tex"
+File: pgfmodulematrix.code.tex 2019/02/02 v3.1.1 (3.1.1)
+\pgfmatrixcurrentrow=\count121
+\pgfmatrixcurrentcolumn=\count122
+\pgf@matrix@numberofcolumns=\count123
+)
+\tikz@expandcount=\count124
+
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/fron
+tendlayer/tikz/libraries\tikzlibrarytopaths.code.tex"
+File: tikzlibrarytopaths.code.tex 2019/02/02 v3.1.1 (3.1.1)
+)))
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/fron
+tendlayer/tikz/libraries\tikzlibrarycalc.code.tex"
+File: tikzlibrarycalc.code.tex 2019/02/02 v3.1.1 (3.1.1)
+)
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/fron
+tendlayer/tikz/libraries\tikzlibrarytrees.code.tex"
+File: tikzlibrarytrees.code.tex 2019/02/02 v3.1.1 (3.1.1)
+)
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/fron
+tendlayer/tikz/libraries\tikzlibrarypositioning.code.tex"
+File: tikzlibrarypositioning.code.tex 2019/02/02 v3.1.1 (3.1.1)
+)
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/fron
+tendlayer/tikz/libraries\tikzlibraryarrows.code.tex"
+File: tikzlibraryarrows.code.tex 2019/02/02 v3.1.1 (3.1.1)
+
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/libr
+aries\pgflibraryarrows.code.tex"
+File: pgflibraryarrows.code.tex 2019/02/02 v3.1.1 (3.1.1)
+\arrowsize=\dimen160
+))
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/fron
+tendlayer/tikz/libraries\tikzlibrarychains.code.tex"
+File: tikzlibrarychains.code.tex 2019/02/02 v3.1.1 (3.1.1)
+)
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/fron
+tendlayer/tikz/libraries\tikzlibraryshapes.geometric.code.tex"
+File: tikzlibraryshapes.geometric.code.tex 2019/02/02 v3.1.1 (3.1.1)
+
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/libr
+aries/shapes\pgflibraryshapes.geometric.code.tex"
+File: pgflibraryshapes.geometric.code.tex 2019/02/02 v3.1.1 (3.1.1)
+))
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/fron
+tendlayer/tikz/libraries\tikzlibrarydecorations.pathreplacing.code.tex"
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/fron
+tendlayer/tikz/libraries\tikzlibrarydecorations.code.tex"
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/modu
+les\pgfmoduledecorations.code.tex"
+\pgfdecoratedcompleteddistance=\dimen161
+\pgfdecoratedremainingdistance=\dimen162
+\pgfdecoratedinputsegmentcompleteddistance=\dimen163
+\pgfdecoratedinputsegmentremainingdistance=\dimen164
+\pgf@decorate@distancetomove=\dimen165
+\pgf@decorate@repeatstate=\count125
+\pgfdecorationsegmentamplitude=\dimen166
+\pgfdecorationsegmentlength=\dimen167
+)
+\tikz@lib@dec@box=\box42
+)
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/libr
+aries/decorations\pgflibrarydecorations.pathreplacing.code.tex"))
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/fron
+tendlayer/tikz/libraries\tikzlibrarydecorations.pathmorphing.code.tex"
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/libr
+aries/decorations\pgflibrarydecorations.pathmorphing.code.tex"))
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/fron
+tendlayer/tikz/libraries\tikzlibraryshapes.code.tex"
+File: tikzlibraryshapes.code.tex 2019/02/02 v3.1.1 (3.1.1)
+
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/fron
+tendlayer/tikz/libraries\tikzlibraryshapes.misc.code.tex"
+File: tikzlibraryshapes.misc.code.tex 2019/02/02 v3.1.1 (3.1.1)
+
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/libr
+aries/shapes\pgflibraryshapes.misc.code.tex"
+File: pgflibraryshapes.misc.code.tex 2019/02/02 v3.1.1 (3.1.1)
+))
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/fron
+tendlayer/tikz/libraries\tikzlibraryshapes.symbols.code.tex"
+File: tikzlibraryshapes.symbols.code.tex 2019/02/02 v3.1.1 (3.1.1)
+
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/libr
+aries/shapes\pgflibraryshapes.symbols.code.tex"
+File: pgflibraryshapes.symbols.code.tex 2019/02/02 v3.1.1 (3.1.1)
+))
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/fron
+tendlayer/tikz/libraries\tikzlibraryshapes.arrows.code.tex"
+File: tikzlibraryshapes.arrows.code.tex 2019/02/02 v3.1.1 (3.1.1)
+
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/libr
+aries/shapes\pgflibraryshapes.arrows.code.tex"
+File: pgflibraryshapes.arrows.code.tex 2019/02/02 v3.1.1 (3.1.1)
+))
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/fron
+tendlayer/tikz/libraries\tikzlibraryshapes.callouts.code.tex"
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/libr
+aries/shapes\pgflibraryshapes.callouts.code.tex"))
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/fron
+tendlayer/tikz/libraries\tikzlibraryshapes.multipart.code.tex"
+File: tikzlibraryshapes.multipart.code.tex 2019/02/02 v3.1.1 (3.1.1)
+
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/libr
+aries/shapes\pgflibraryshapes.multipart.code.tex"
+File: pgflibraryshapes.multipart.code.tex 2019/02/02 v3.1.1 (3.1.1)
+\pgfnodepartlowerbox=\box43
+\pgfnodeparttwobox=\box44
+\pgfnodepartthreebox=\box45
+\pgfnodepartfourbox=\box46
+\pgfnodeparttwentybox=\box47
+\pgfnodepartnineteenbox=\box48
+\pgfnodeparteighteenbox=\box49
+\pgfnodepartseventeenbox=\box50
+\pgfnodepartsixteenbox=\box51
+\pgfnodepartfifteenbox=\box52
+\pgfnodepartfourteenbox=\box53
+\pgfnodepartthirteenbox=\box54
+\pgfnodeparttwelvebox=\box55
+\pgfnodepartelevenbox=\box56
+\pgfnodeparttenbox=\box57
+\pgfnodepartninebox=\box58
+\pgfnodeparteightbox=\box59
+\pgfnodepartsevenbox=\box60
+\pgfnodepartsixbox=\box61
+\pgfnodepartfivebox=\box62
+)))
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/fron
+tendlayer/tikz/libraries\tikzlibrarymatrix.code.tex"
+File: tikzlibrarymatrix.code.tex 2019/02/02 v3.1.1 (3.1.1)
+)
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/latex/multirow\m
+ultirow.sty"
+Package: multirow 2019/01/01 v2.4 Span multiple rows of a table
+\multirow@colwidth=\skip48
+\multirow@cntb=\count126
+\multirow@dima=\skip49
+\bigstrutjot=\dimen168
+)
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/latex/units\unit
+s.sty"
+Package: units 1998/08/04 v0.9b Typesetting units
+
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ifthe
+n.sty"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/latex/units\nice
+frac.sty"
+Package: nicefrac 1998/08/04 v0.9b Nice fractions
+\L@UnitsRaiseDisplaystyle=\skip50
+\L@UnitsRaiseTextstyle=\skip51
+\L@UnitsRaiseScriptstyle=\skip52
+))
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\ca
+ption.sty"
+Package: caption 2018/10/06 v3.3-154 Customizing captions (AR)
+
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\ca
+ption3.sty"
+Package: caption3 2018/09/12 v1.8c caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 64.
+\captionmargin=\dimen169
+\captionmargin@=\dimen170
+\captionwidth=\dimen171
+\caption@tempdima=\dimen172
+\caption@indent=\dimen173
+\caption@parindent=\dimen174
+\caption@hangindent=\dimen175
+)
+\c@caption@flags=\count127
+\c@ContinuedFloat=\count128
+Package caption Info: hyperref package is loaded.
+)
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\am
+smath.sty"
+Package: amsmath 2018/12/01 v2.17b AMS math features
+\@mathmargin=\skip53
+
+For additional information on amsmath, use the `?' option.
+
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\am
+stext.sty"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\am
+sgen.sty"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks31
+\ex@=\dimen176
+))
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\am
+sbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen177
+)
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\am
+sopn.sty"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count129
+LaTeX Info: Redefining \frac on input line 223.
+\uproot@=\count130
+\leftroot@=\count131
+LaTeX Info: Redefining \overline on input line 385.
+\classnum@=\count132
+\DOTSCASE@=\count133
+LaTeX Info: Redefining \ldots on input line 482.
+LaTeX Info: Redefining \dots on input line 485.
+LaTeX Info: Redefining \cdots on input line 606.
+\Mathstrutbox@=\box63
+\strutbox@=\box64
+\big@size=\dimen178
+LaTeX Font Info:    Redeclaring font encoding OML on input line 729.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 730.
+\macc@depth=\count134
+\c@MaxMatrixCols=\count135
+\dotsspace@=\muskip11
+\c@parentequation=\count136
+\dspbrk@lvl=\count137
+\tag@help=\toks32
+\row@=\count138
+\column@=\count139
+\maxfields@=\count140
+\andhelp@=\toks33
+\eqnshift@=\dimen179
+\alignsep@=\dimen180
+\tagshift@=\dimen181
+\tagwidth@=\dimen182
+\totwidth@=\dimen183
+\lineht@=\dimen184
+\@envbody=\toks34
+\multlinegap=\skip54
+\multlinetaggap=\skip55
+\mathdisplay@stack=\toks35
+LaTeX Info: Redefining \[ on input line 2844.
+LaTeX Info: Redefining \] on input line 2845.
+)
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/latex/colortbl\c
+olortbl.sty"
+Package: colortbl 2018/12/12 v1.0d Color table columns (DPC)
+
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\arra
+y.sty"
+Package: array 2018/11/13 v2.4j Tabular extension package (FMi)
+\col@sep=\dimen185
+\ar@mcellbox=\box65
+\extrarowheight=\dimen186
+\NC@list=\toks36
+\extratabsurround=\skip56
+\backup@length=\skip57
+\ar@cellbox=\box66
+)
+\everycr=\toks37
+\minrowclearance=\skip58
+)
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/latex/algorithms
+\algorithm.sty"
+Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating enviro
+nment
+
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/latex/float\floa
+t.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count141
+\float@exts=\toks38
+\float@box=\box67
+\@float@everytoks=\toks39
+\@floatcapt=\box68
+)
+\@float@every@algorithm=\toks40
+\c@algorithm=\count142
+)
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/latex/algorithmi
+cx\algpseudocode.sty"
+Package: algpseudocode 
+
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/latex/algorithmi
+cx\algorithmicx.sty"
+Package: algorithmicx 2005/04/27 v1.2 Algorithmicx
+
+Document Style algorithmicx 1.2 - a greatly improved `algorithmic' style
+\c@ALG@line=\count143
+\c@ALG@rem=\count144
+\c@ALG@nested=\count145
+\ALG@tlm=\skip59
+\ALG@thistlm=\skip60
+\c@ALG@Lnr=\count146
+\c@ALG@blocknr=\count147
+\c@ALG@storecount=\count148
+\c@ALG@tmpcounter=\count149
+\ALG@tmplength=\skip61
+)
+Document Style - pseudocode environments for use with the `algorithmicx' style
+)
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\g
+eometry.sty"
+Package: geometry 2018/04/16 v5.8 Page Geometry
+\Gm@cnth=\count150
+\Gm@cntv=\count151
+\c@Gm@tempcnt=\count152
+\Gm@bindingoffset=\dimen187
+\Gm@wd@mp=\dimen188
+\Gm@odd@mp=\dimen189
+\Gm@even@mp=\dimen190
+\Gm@layoutwidth=\dimen191
+\Gm@layoutheight=\dimen192
+\Gm@layouthoffset=\dimen193
+\Gm@layoutvoffset=\dimen194
+\Gm@dimlist=\toks41
+
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\g
+eometry.cfg")) (main.aux)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mki
+i\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count153
+\scratchdimen=\dimen195
+\scratchbox=\box69
+\nofMPsegments=\count154
+\nofMParguments=\count155
+\everyMPshowfont=\toks42
+\MPscratchCnt=\count156
+\MPscratchDim=\dimen196
+\MPnumerator=\count157
+\makeMPintoPDFobject=\count158
+\everyMPtoPDFconversion=\toks43
+)
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\e
+pstopdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\g
+rfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+\AtBeginShipoutBox=\box70
+Package hyperref Info: Link coloring OFF on input line 33.
+
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\n
+ameref.sty"
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+
+("C:\Users\Amed Mvoulana\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek
+\gettitlestring.sty"
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count159
+)
+LaTeX Info: Redefining \ref on input line 33.
+LaTeX Info: Redefining \pageref on input line 33.
+LaTeX Info: Redefining \nameref on input line 33.
+ (main.out) (main.out)
+\@outlinefile=\write5
+\openout5 = `main.out'.
+
+
+ABD: EveryShipout initializing macros
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: End \AtBeginDocument code.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* hratio: 1:1
+* modes: 
+* h-part:(L,W,R)=(51.21504pt, 511.86491pt, 51.21504pt)
+* v-part:(T,H,B)=(73.97716pt, 647.01567pt, 73.97716pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=511.86491pt
+* \textheight=647.01567pt
+* \oddsidemargin=-21.05495pt
+* \evensidemargin=-21.05495pt
+* \topmargin=-35.29283pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=20.0pt
+* \skip\footins=24.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--59
+
+ []
+
+(introduction.tex
+Overfull \hbox (2.22221pt too wide) has occurred while \output is active
+[] 
+ []
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\<def>-command' on input line 5.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\cnotenum' on input line 5.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\<def>-command' on input line 5.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\@corref' on input line 5.
+
+[1
+
+
+{C:/Users/Amed Mvoulana/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+<Images/Introduction/image1.png, id=147, 2059.695pt x 1757.56625pt>
+File: Images/Introduction/image1.png Graphic file (type png)
+<use Images/Introduction/image1.png>
+Package pdftex.def Info: Images/Introduction/image1.png  used on input line 20.
+
+(pdftex.def)             Requested size: 100.00508pt x 85.35826pt.
+<Images/Introduction/image1_zones.png, id=148, 567.62062pt x 522.45187pt>
+File: Images/Introduction/image1_zones.png Graphic file (type png)
+<use Images/Introduction/image1_zones.png>
+Package pdftex.def Info: Images/Introduction/image1_zones.png  used on input li
+ne 20.
+(pdftex.def)             Requested size: 92.73526pt x 85.35826pt.
+<Images/Introduction/image2.png, id=150, 2055.68pt x 1765.59625pt>
+File: Images/Introduction/image2.png Graphic file (type png)
+<use Images/Introduction/image2.png>
+Package pdftex.def Info: Images/Introduction/image2.png  used on input line 22.
+
+(pdftex.def)             Requested size: 99.371pt x 85.35826pt.
+<Images/Introduction/image2_zones.png, id=151, 596.98032pt x 551.81157pt>
+File: Images/Introduction/image2_zones.png Graphic file (type png)
+<use Images/Introduction/image2_zones.png>
+Package pdftex.def Info: Images/Introduction/image2_zones.png  used on input li
+ne 22.
+(pdftex.def)             Requested size: 92.33969pt x 85.35826pt.
+
+[2] [3 <./Images/Introduction/image1.png> <./Images/Introduction/image1_zones.p
+ng> <./Images/Introduction/image2.png> <./Images/Introduction/image2_zones.png>
+]) (related_work.tex [4] [5]) (proposed_method.tex
+<Images/full-image00.JPG, id=310, 1111.15125pt x 249.18094pt>
+File: Images/full-image00.JPG Graphic file (type jpg)
+<use Images/full-image00.JPG>
+Package pdftex.def Info: Images/full-image00.JPG  used on input line 2.
+(pdftex.def)             Requested size: 511.86491pt x 114.7881pt.
+ [6 <./Images/full-image00.JPG>]
+<Images/Methode/Detection/examples/image006.png, id=335, 1129.21875pt x 867.24p
+t>
+File: Images/Methode/Detection/examples/image006.png Graphic file (type png)
+<use Images/Methode/Detection/examples/image006.png>
+Package pdftex.def Info: Images/Methode/Detection/examples/image006.png  used o
+n input line 22.
+(pdftex.def)             Requested size: 128.0374pt x 98.32118pt.
+<Images/Methode/Detection/examples/image_lesions.png, id=336, 1129.21875pt x 86
+7.24pt>
+File: Images/Methode/Detection/examples/image_lesions.png Graphic file (type pn
+g)
+<use Images/Methode/Detection/examples/image_lesions.png>
+Package pdftex.def Info: Images/Methode/Detection/examples/image_lesions.png  u
+sed on input line 23.
+(pdftex.def)             Requested size: 128.0374pt x 98.32118pt.
+ [7 <./Images/Methode/Detection/examples/image006.png> <./Images/Methode/Detect
+ion/examples/image_lesions.png>] (Algorithms/od_detection.tex
+Package hyperref Info: bookmark level for unknown algorithm defaults to 0 on in
+put line 3.
+) [8]
+(Algorithms/detection_bright_regions.tex)
+<Images/Methode/Detection/im0002/im0002_.jpg, id=424, 702.625pt x 501.875pt>
+File: Images/Methode/Detection/im0002/im0002_.jpg Graphic file (type jpg)
+<use Images/Methode/Detection/im0002/im0002_.jpg>
+Package pdftex.def Info: Images/Methode/Detection/im0002/im0002_.jpg  used on i
+nput line 56.
+(pdftex.def)             Requested size: 113.81102pt x 81.28952pt.
+<Images/Methode/Detection/im0002/1_image_egalisee.jpg, id=425, 702.625pt x 501.
+875pt>
+File: Images/Methode/Detection/im0002/1_image_egalisee.jpg Graphic file (type j
+pg)
+<use Images/Methode/Detection/im0002/1_image_egalisee.jpg>
+Package pdftex.def Info: Images/Methode/Detection/im0002/1_image_egalisee.jpg  
+used on input line 57.
+(pdftex.def)             Requested size: 113.81102pt x 81.28952pt.
+<Images/Methode/Detection/im0002/2_image_seuillee.jpg, id=426, 702.625pt x 501.
+875pt>
+File: Images/Methode/Detection/im0002/2_image_seuillee.jpg Graphic file (type j
+pg)
+<use Images/Methode/Detection/im0002/2_image_seuillee.jpg>
+Package pdftex.def Info: Images/Methode/Detection/im0002/2_image_seuillee.jpg  
+used on input line 58.
+(pdftex.def)             Requested size: 113.81102pt x 81.28952pt.
+<Images/Methode/Detection/im0002/3_image_dist.jpg, id=427, 702.625pt x 501.875p
+t>
+File: Images/Methode/Detection/im0002/3_image_dist.jpg Graphic file (type jpg)
+<use Images/Methode/Detection/im0002/3_image_dist.jpg>
+Package pdftex.def Info: Images/Methode/Detection/im0002/3_image_dist.jpg  used
+ on input line 59.
+(pdftex.def)             Requested size: 113.81102pt x 81.28952pt.
+<Images/Methode/Detection/im0002/4_image_points2.jpg, id=428, 702.625pt x 501.8
+75pt>
+File: Images/Methode/Detection/im0002/4_image_points2.jpg Graphic file (type jp
+g)
+<use Images/Methode/Detection/im0002/4_image_points2.jpg>
+Package pdftex.def Info: Images/Methode/Detection/im0002/4_image_points2.jpg  u
+sed on input line 60.
+(pdftex.def)             Requested size: 113.81102pt x 81.28952pt.
+<Images/Methode/Detection/im0002/points.jpg, id=429, 702.625pt x 501.875pt>
+File: Images/Methode/Detection/im0002/points.jpg Graphic file (type jpg)
+<use Images/Methode/Detection/im0002/points.jpg>
+Package pdftex.def Info: Images/Methode/Detection/im0002/points.jpg  used on in
+put line 61.
+(pdftex.def)             Requested size: 113.81102pt x 81.28952pt.
+File: Images/Methode/Detection/im0002/im0002_.jpg Graphic file (type jpg)
+<use Images/Methode/Detection/im0002/im0002_.jpg>
+Package pdftex.def Info: Images/Methode/Detection/im0002/im0002_.jpg  used on i
+nput line 68.
+(pdftex.def)             Requested size: 99.58464pt x 71.12737pt.
+<Images/Methode/Detection/im0002/image_seuillee.jpg, id=430, 702.625pt x 501.87
+5pt>
+File: Images/Methode/Detection/im0002/image_seuillee.jpg Graphic file (type jpg
+)
+<use Images/Methode/Detection/im0002/image_seuillee.jpg>
+Package pdftex.def Info: Images/Methode/Detection/im0002/image_seuillee.jpg  us
+ed on input line 69.
+(pdftex.def)             Requested size: 99.58464pt x 71.12737pt.
+File: Images/Methode/Detection/im0002/2_image_seuillee.jpg Graphic file (type j
+pg)
+<use Images/Methode/Detection/im0002/2_image_seuillee.jpg>
+Package pdftex.def Info: Images/Methode/Detection/im0002/2_image_seuillee.jpg  
+used on input line 70.
+(pdftex.def)             Requested size: 99.58464pt x 71.12737pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[9] [10 <./Images/Methode/Detection/im0002/im0002_.jpg> <./Images/Methode/Detec
+tion/im0002/1_image_egalisee.jpg> <./Images/Methode/Detection/im0002/2_image_se
+uillee.jpg> <./Images/Methode/Detection/im0002/3_image_dist.jpg> <./Images/Meth
+ode/Detection/im0002/4_image_points2.jpg> <./Images/Methode/Detection/im0002/po
+ints.jpg> <./Images/Methode/Detection/im0002/image_seuillee.jpg>]
+<Images/Methode/Detection/full-template.JPG, id=471, 1131.47719pt x 575.14874pt
+>
+File: Images/Methode/Detection/full-template.JPG Graphic file (type jpg)
+<use Images/Methode/Detection/full-template.JPG>
+Package pdftex.def Info: Images/Methode/Detection/full-template.JPG  used on in
+put line 97.
+(pdftex.def)             Requested size: 460.6753pt x 234.16261pt.
+ [11 <./Images/Methode/Detection/full-template.JPG>] (Tableaux/tableau_fov.tex)
+
+(Algorithms/template_matching.tex) [12]
+File: Images/Methode/Detection/im0002/points.jpg Graphic file (type jpg)
+<use Images/Methode/Detection/im0002/points.jpg>
+Package pdftex.def Info: Images/Methode/Detection/im0002/points.jpg  used on in
+put line 173.
+(pdftex.def)             Requested size: 119.49828pt x 85.35826pt.
+<Images/Methode/Detection/im0002/framed_points2.png, id=539, 526.96875pt x 376.
+40625pt>
+File: Images/Methode/Detection/im0002/framed_points2.png Graphic file (type png
+)
+<use Images/Methode/Detection/im0002/framed_points2.png>
+Package pdftex.def Info: Images/Methode/Detection/im0002/framed_points2.png  us
+ed on input line 174.
+(pdftex.def)             Requested size: 119.50363pt x 85.35826pt.
+<Images/Methode/Detection/im0002/final_crop.png, id=540, 543.53062pt x 261.9787
+4pt>
+File: Images/Methode/Detection/im0002/final_crop.png Graphic file (type png)
+<use Images/Methode/Detection/im0002/final_crop.png>
+Package pdftex.def Info: Images/Methode/Detection/im0002/final_crop.png  used o
+n input line 175.
+(pdftex.def)             Requested size: 177.0932pt x 85.35826pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+(Algorithms/oc_od_segmentation.tex [13]) [14 <./Images/Methode/Detection/im0002
+/framed_points2.png> <./Images/Methode/Detection/im0002/final_crop.png>]
+<Images/Methode/Segmentation/0_crop.png, id=576, 602.25pt x 602.25pt>
+File: Images/Methode/Segmentation/0_crop.png Graphic file (type png)
+<use Images/Methode/Segmentation/0_crop.png>
+Package pdftex.def Info: Images/Methode/Segmentation/0_crop.png  used on input 
+line 210.
+(pdftex.def)             Requested size: 71.13188pt x 71.12737pt.
+<Images/Methode/Segmentation/Kmeans/clustering2.png, id=577, 602.25pt x 602.25p
+t>
+File: Images/Methode/Segmentation/Kmeans/clustering2.png Graphic file (type png
+)
+<use Images/Methode/Segmentation/Kmeans/clustering2.png>
+Package pdftex.def Info: Images/Methode/Segmentation/Kmeans/clustering2.png  us
+ed on input line 211.
+(pdftex.def)             Requested size: 71.13188pt x 71.12737pt.
+<Images/Methode/Segmentation/1_kmeans.png, id=578, 602.25pt x 602.25pt>
+File: Images/Methode/Segmentation/1_kmeans.png Graphic file (type png)
+<use Images/Methode/Segmentation/1_kmeans.png>
+Package pdftex.def Info: Images/Methode/Segmentation/1_kmeans.png  used on inpu
+t line 212.
+(pdftex.def)             Requested size: 71.13188pt x 71.12737pt.
+<Images/Methode/Segmentation/Kmeans/clustering8.png, id=579, 602.25pt x 602.25p
+t>
+File: Images/Methode/Segmentation/Kmeans/clustering8.png Graphic file (type png
+)
+<use Images/Methode/Segmentation/Kmeans/clustering8.png>
+Package pdftex.def Info: Images/Methode/Segmentation/Kmeans/clustering8.png  us
+ed on input line 213.
+(pdftex.def)             Requested size: 71.13188pt x 71.12737pt.
+
+[15 <./Images/Methode/Segmentation/0_crop.png (PNG copy)> <./Images/Methode/Seg
+mentation/Kmeans/clustering2.png (PNG copy)> <./Images/Methode/Segmentation/1_k
+means.png (PNG copy)> <./Images/Methode/Segmentation/Kmeans/clustering8.png (PN
+G copy)>]
+<Images/Methode/Segmentation/2_cup.png, id=599, 602.25pt x 602.25pt>
+File: Images/Methode/Segmentation/2_cup.png Graphic file (type png)
+<use Images/Methode/Segmentation/2_cup.png>
+Package pdftex.def Info: Images/Methode/Segmentation/2_cup.png  used on input l
+ine 234.
+(pdftex.def)             Requested size: 71.13188pt x 71.12737pt.
+
+Overfull \vbox (4.52742pt too high) detected at line 234
+ []
+
+
+Overfull \hbox (12.22224pt too wide) in paragraph at lines 234--234
+[]|[]| 
+ []
+
+<Images/Methode/Segmentation/6_hough_cup.png, id=600, 602.25pt x 602.25pt>
+File: Images/Methode/Segmentation/6_hough_cup.png Graphic file (type png)
+<use Images/Methode/Segmentation/6_hough_cup.png>
+Package pdftex.def Info: Images/Methode/Segmentation/6_hough_cup.png  used on i
+nput line 235.
+(pdftex.def)             Requested size: 71.13188pt x 71.12737pt.
+
+Overfull \vbox (4.52742pt too high) detected at line 235
+ []
+
+
+Overfull \hbox (12.22224pt too wide) in paragraph at lines 235--236
+[]|[]| 
+ []
+
+File: Images/Methode/Segmentation/0_crop.png Graphic file (type png)
+<use Images/Methode/Segmentation/0_crop.png>
+Package pdftex.def Info: Images/Methode/Segmentation/0_crop.png  used on input 
+line 237.
+(pdftex.def)             Requested size: 71.13188pt x 71.12737pt.
+
+Overfull \vbox (4.52742pt too high) detected at line 237
+ []
+
+
+Overfull \hbox (12.77782pt too wide) in paragraph at lines 237--237
+[]|[]| 
+ []
+
+File: Images/Methode/Segmentation/1_kmeans.png Graphic file (type png)
+<use Images/Methode/Segmentation/1_kmeans.png>
+Package pdftex.def Info: Images/Methode/Segmentation/1_kmeans.png  used on inpu
+t line 238.
+(pdftex.def)             Requested size: 71.13188pt x 71.12737pt.
+
+Overfull \vbox (4.52742pt too high) detected at line 238
+ []
+
+
+Overfull \hbox (13.33337pt too wide) in paragraph at lines 238--238
+[]|[]| 
+ []
+
+<Images/Methode/Segmentation/3_do.png, id=601, 602.25pt x 602.25pt>
+File: Images/Methode/Segmentation/3_do.png Graphic file (type png)
+<use Images/Methode/Segmentation/3_do.png>
+Package pdftex.def Info: Images/Methode/Segmentation/3_do.png  used on input li
+ne 240.
+(pdftex.def)             Requested size: 71.13188pt x 71.12737pt.
+
+Overfull \vbox (4.52742pt too high) detected at line 240
+ []
+
+
+Overfull \hbox (13.33337pt too wide) in paragraph at lines 240--240
+[]|[]| 
+ []
+
+<Images/Methode/Segmentation/7_hough_do.png, id=602, 602.25pt x 602.25pt>
+File: Images/Methode/Segmentation/7_hough_do.png Graphic file (type png)
+<use Images/Methode/Segmentation/7_hough_do.png>
+Package pdftex.def Info: Images/Methode/Segmentation/7_hough_do.png  used on in
+put line 241.
+(pdftex.def)             Requested size: 71.13188pt x 71.12737pt.
+
+Overfull \vbox (4.52742pt too high) detected at line 241
+ []
+
+
+Overfull \hbox (11.61116pt too wide) in paragraph at lines 241--242
+[]|[]| 
+ []
+
+[16 <./Images/Methode/Segmentation/2_cup.png (PNG copy)> <./Images/Methode/Segm
+entation/6_hough_cup.png (PNG copy)> <./Images/Methode/Segmentation/3_do.png (P
+NG copy)> <./Images/Methode/Segmentation/7_hough_do.png (PNG copy)>]
+(Algorithms/glaucoma_screening.tex) [17]) (materials_results.tex [18] [19]
+[20] [21] (Tableaux/complexity.tex) (Figures/od_detection_results.tex
+<Images/Methode/Detection/Drive/02_test.jpg, id=749, 567.11874pt x 586.19pt>
+File: Images/Methode/Detection/Drive/02_test.jpg Graphic file (type jpg)
+<use Images/Methode/Detection/Drive/02_test.jpg>
+Package pdftex.def Info: Images/Methode/Detection/Drive/02_test.jpg  used on in
+put line 7.
+(pdftex.def)             Requested size: 85.35826pt x 88.21986pt.
+<Images/Methode/Detection/Drive/03_test.jpg, id=750, 567.11874pt x 586.19pt>
+File: Images/Methode/Detection/Drive/03_test.jpg Graphic file (type jpg)
+<use Images/Methode/Detection/Drive/03_test.jpg>
+Package pdftex.def Info: Images/Methode/Detection/Drive/03_test.jpg  used on in
+put line 8.
+(pdftex.def)             Requested size: 85.35826pt x 88.21986pt.
+<Images/Methode/Detection/Drive/04_test.jpg, id=751, 567.11874pt x 586.19pt>
+File: Images/Methode/Detection/Drive/04_test.jpg Graphic file (type jpg)
+<use Images/Methode/Detection/Drive/04_test.jpg>
+Package pdftex.def Info: Images/Methode/Detection/Drive/04_test.jpg  used on in
+put line 9.
+(pdftex.def)             Requested size: 85.35826pt x 88.21986pt.
+<Images/Methode/Detection/Drive/08_test.jpg, id=752, 567.11874pt x 586.19pt>
+File: Images/Methode/Detection/Drive/08_test.jpg Graphic file (type jpg)
+<use Images/Methode/Detection/Drive/08_test.jpg>
+Package pdftex.def Info: Images/Methode/Detection/Drive/08_test.jpg  used on in
+put line 12.
+(pdftex.def)             Requested size: 85.35826pt x 88.21986pt.
+<Images/Methode/Detection/Drive/26_training.jpg, id=753, 567.11874pt x 586.19pt
+>
+File: Images/Methode/Detection/Drive/26_training.jpg Graphic file (type jpg)
+<use Images/Methode/Detection/Drive/26_training.jpg>
+Package pdftex.def Info: Images/Methode/Detection/Drive/26_training.jpg  used o
+n input line 13.
+(pdftex.def)             Requested size: 85.35826pt x 88.21986pt.
+<Images/Methode/Detection/Drive/34_training.jpg, id=754, 567.11874pt x 586.19pt
+>
+File: Images/Methode/Detection/Drive/34_training.jpg Graphic file (type jpg)
+<use Images/Methode/Detection/Drive/34_training.jpg>
+Package pdftex.def Info: Images/Methode/Detection/Drive/34_training.jpg  used o
+n input line 14.
+(pdftex.def)             Requested size: 85.35826pt x 88.21986pt.
+<Images/Methode/Detection/Stare/im0179.jpg, id=755, 702.625pt x 607.26875pt>
+File: Images/Methode/Detection/Stare/im0179.jpg Graphic file (type jpg)
+<use Images/Methode/Detection/Stare/im0179.jpg>
+Package pdftex.def Info: Images/Methode/Detection/Stare/im0179.jpg  used on inp
+ut line 17.
+(pdftex.def)             Requested size: 85.35826pt x 73.76791pt.
+<Images/Methode/Detection/Stare/im0096.jpg, id=756, 702.625pt x 607.26875pt>
+File: Images/Methode/Detection/Stare/im0096.jpg Graphic file (type jpg)
+<use Images/Methode/Detection/Stare/im0096.jpg>
+Package pdftex.def Info: Images/Methode/Detection/Stare/im0096.jpg  used on inp
+ut line 18.
+(pdftex.def)             Requested size: 85.35826pt x 73.76791pt.
+<Images/Methode/Detection/Stare/im0110.jpg, id=757, 702.625pt x 607.26875pt>
+File: Images/Methode/Detection/Stare/im0110.jpg Graphic file (type jpg)
+<use Images/Methode/Detection/Stare/im0110.jpg>
+Package pdftex.def Info: Images/Methode/Detection/Stare/im0110.jpg  used on inp
+ut line 19.
+(pdftex.def)             Requested size: 85.35826pt x 73.76791pt.
+<Images/Methode/Detection/Stare/im0140.jpg, id=758, 702.625pt x 607.26875pt>
+File: Images/Methode/Detection/Stare/im0140.jpg Graphic file (type jpg)
+<use Images/Methode/Detection/Stare/im0140.jpg>
+Package pdftex.def Info: Images/Methode/Detection/Stare/im0140.jpg  used on inp
+ut line 22.
+(pdftex.def)             Requested size: 85.35826pt x 73.76791pt.
+<Images/Methode/Detection/Stare/im0183.jpg, id=759, 702.625pt x 607.26875pt>
+File: Images/Methode/Detection/Stare/im0183.jpg Graphic file (type jpg)
+<use Images/Methode/Detection/Stare/im0183.jpg>
+Package pdftex.def Info: Images/Methode/Detection/Stare/im0183.jpg  used on inp
+ut line 23.
+(pdftex.def)             Requested size: 85.35826pt x 73.76791pt.
+<Images/Methode/Detection/Stare/im0177.jpg, id=760, 702.625pt x 607.26875pt>
+File: Images/Methode/Detection/Stare/im0177.jpg Graphic file (type jpg)
+<use Images/Methode/Detection/Stare/im0177.jpg>
+Package pdftex.def Info: Images/Methode/Detection/Stare/im0177.jpg  used on inp
+ut line 24.
+(pdftex.def)             Requested size: 85.35826pt x 73.76791pt.
+)
+(Figures/od_detection_failures.tex
+<Images/Methode/Detection/failures/failure4.jpg, id=761, 526.21594pt x 402.7546
+8pt>
+File: Images/Methode/Detection/failures/failure4.jpg Graphic file (type jpg)
+<use Images/Methode/Detection/failures/failure4.jpg>
+Package pdftex.def Info: Images/Methode/Detection/failures/failure4.jpg  used o
+n input line 4.
+(pdftex.def)             Requested size: 100.36748pt x 76.82234pt.
+<Images/Methode/Detection/failures/failure2.jpg, id=762, 702.625pt x 607.26875p
+t>
+File: Images/Methode/Detection/failures/failure2.jpg Graphic file (type jpg)
+<use Images/Methode/Detection/failures/failure2.jpg>
+Package pdftex.def Info: Images/Methode/Detection/failures/failure2.jpg  used o
+n input line 5.
+(pdftex.def)             Requested size: 88.87857pt x 76.82234pt.
+<Images/Methode/Detection/failures/failure1.jpg, id=763, 702.625pt x 607.26875p
+t>
+File: Images/Methode/Detection/failures/failure1.jpg Graphic file (type jpg)
+<use Images/Methode/Detection/failures/failure1.jpg>
+Package pdftex.def Info: Images/Methode/Detection/failures/failure1.jpg  used o
+n input line 6.
+(pdftex.def)             Requested size: 88.87857pt x 76.82234pt.
+) [22] [23 <./Images/Methode/Detection/Drive/02_test.jpg> <./Images/Methode/Det
+ection/Drive/03_test.jpg> <./Images/Methode/Detection/Drive/04_test.jpg> <./Ima
+ges/Methode/Detection/Drive/08_test.jpg> <./Images/Methode/Detection/Drive/26_t
+raining.jpg> <./Images/Methode/Detection/Drive/34_training.jpg> <./Images/Metho
+de/Detection/Stare/im0179.jpg> <./Images/Methode/Detection/Stare/im0096.jpg> <.
+/Images/Methode/Detection/Stare/im0110.jpg> <./Images/Methode/Detection/Stare/i
+m0140.jpg> <./Images/Methode/Detection/Stare/im0183.jpg> <./Images/Methode/Dete
+ction/Stare/im0177.jpg> <./Images/Methode/Detection/failures/failure4.jpg> <./I
+mages/Methode/Detection/failures/failure2.jpg> <./Images/Methode/Detection/fail
+ures/failure1.jpg>]
+(Figures/segmentation_results.tex
+<Images/Results/Segmentation/drishti98/2_cup.png, id=798, 602.25pt x 602.25pt>
+File: Images/Results/Segmentation/drishti98/2_cup.png Graphic file (type png)
+<use Images/Results/Segmentation/drishti98/2_cup.png>
+Package pdftex.def Info: Images/Results/Segmentation/drishti98/2_cup.png  used 
+on input line 9.
+(pdftex.def)             Requested size: 71.13188pt x 71.12737pt.
+
+Overfull \vbox (4.52742pt too high) detected at line 9
+ []
+
+<Images/Results/Segmentation/drishti98/6_hough_cup.png, id=799, 602.25pt x 602.
+25pt>
+File: Images/Results/Segmentation/drishti98/6_hough_cup.png Graphic file (type 
+png)
+<use Images/Results/Segmentation/drishti98/6_hough_cup.png>
+Package pdftex.def Info: Images/Results/Segmentation/drishti98/6_hough_cup.png 
+ used on input line 10.
+(pdftex.def)             Requested size: 71.13188pt x 71.12737pt.
+
+Overfull \vbox (4.52742pt too high) detected at line 10
+ []
+
+<Images/Results/Segmentation/drishti98/0_crop.png, id=800, 602.25pt x 602.25pt>
+
+File: Images/Results/Segmentation/drishti98/0_crop.png Graphic file (type png)
+<use Images/Results/Segmentation/drishti98/0_crop.png>
+Package pdftex.def Info: Images/Results/Segmentation/drishti98/0_crop.png  used
+ on input line 12.
+(pdftex.def)             Requested size: 71.13188pt x 71.12737pt.
+
+Overfull \vbox (4.52742pt too high) detected at line 12
+ []
+
+<Images/Results/Segmentation/drishti98/1_kmeans.png, id=801, 602.25pt x 602.25p
+t>
+File: Images/Results/Segmentation/drishti98/1_kmeans.png Graphic file (type png
+)
+<use Images/Results/Segmentation/drishti98/1_kmeans.png>
+Package pdftex.def Info: Images/Results/Segmentation/drishti98/1_kmeans.png  us
+ed on input line 13.
+(pdftex.def)             Requested size: 71.13188pt x 71.12737pt.
+
+Overfull \vbox (4.52742pt too high) detected at line 13
+ []
+
+<Images/Results/Segmentation/drishti98/3_do.png, id=802, 602.25pt x 602.25pt>
+File: Images/Results/Segmentation/drishti98/3_do.png Graphic file (type png)
+<use Images/Results/Segmentation/drishti98/3_do.png>
+Package pdftex.def Info: Images/Results/Segmentation/drishti98/3_do.png  used o
+n input line 15.
+(pdftex.def)             Requested size: 71.13188pt x 71.12737pt.
+
+Overfull \vbox (4.52742pt too high) detected at line 15
+ []
+
+<Images/Results/Segmentation/drishti98/7_hough_do.png, id=803, 602.25pt x 602.2
+5pt>
+File: Images/Results/Segmentation/drishti98/7_hough_do.png Graphic file (type p
+ng)
+<use Images/Results/Segmentation/drishti98/7_hough_do.png>
+Package pdftex.def Info: Images/Results/Segmentation/drishti98/7_hough_do.png  
+used on input line 16.
+(pdftex.def)             Requested size: 71.13188pt x 71.12737pt.
+
+Overfull \vbox (4.52742pt too high) detected at line 16
+ []
+
+<Images/Results/Segmentation/drishti69/2_cup.png, id=804, 642.4pt x 642.4pt>
+File: Images/Results/Segmentation/drishti69/2_cup.png Graphic file (type png)
+<use Images/Results/Segmentation/drishti69/2_cup.png>
+Package pdftex.def Info: Images/Results/Segmentation/drishti69/2_cup.png  used 
+on input line 21.
+(pdftex.def)             Requested size: 71.13188pt x 71.12492pt.
+
+Overfull \vbox (4.52498pt too high) detected at line 21
+ []
+
+<Images/Results/Segmentation/drishti69/6_hough_cup.png, id=805, 642.4pt x 642.4
+pt>
+File: Images/Results/Segmentation/drishti69/6_hough_cup.png Graphic file (type 
+png)
+<use Images/Results/Segmentation/drishti69/6_hough_cup.png>
+Package pdftex.def Info: Images/Results/Segmentation/drishti69/6_hough_cup.png 
+ used on input line 22.
+(pdftex.def)             Requested size: 71.13188pt x 71.12492pt.
+
+Overfull \vbox (4.52498pt too high) detected at line 22
+ []
+
+<Images/Results/Segmentation/drishti69/0_crop.png, id=806, 642.4pt x 642.4pt>
+File: Images/Results/Segmentation/drishti69/0_crop.png Graphic file (type png)
+<use Images/Results/Segmentation/drishti69/0_crop.png>
+Package pdftex.def Info: Images/Results/Segmentation/drishti69/0_crop.png  used
+ on input line 24.
+(pdftex.def)             Requested size: 71.13188pt x 71.12492pt.
+
+Overfull \vbox (4.52498pt too high) detected at line 24
+ []
+
+<Images/Results/Segmentation/drishti69/1_kmeans.png, id=807, 642.4pt x 642.4pt>
+
+File: Images/Results/Segmentation/drishti69/1_kmeans.png Graphic file (type png
+)
+<use Images/Results/Segmentation/drishti69/1_kmeans.png>
+Package pdftex.def Info: Images/Results/Segmentation/drishti69/1_kmeans.png  us
+ed on input line 25.
+(pdftex.def)             Requested size: 71.13188pt x 71.12492pt.
+
+Overfull \vbox (4.52498pt too high) detected at line 25
+ []
+
+<Images/Results/Segmentation/drishti69/3_do.png, id=808, 642.4pt x 642.4pt>
+File: Images/Results/Segmentation/drishti69/3_do.png Graphic file (type png)
+<use Images/Results/Segmentation/drishti69/3_do.png>
+Package pdftex.def Info: Images/Results/Segmentation/drishti69/3_do.png  used o
+n input line 27.
+(pdftex.def)             Requested size: 71.13188pt x 71.12492pt.
+
+Overfull \vbox (4.52498pt too high) detected at line 27
+ []
+
+<Images/Results/Segmentation/drishti69/7_hough_do.png, id=809, 642.4pt x 642.4p
+t>
+File: Images/Results/Segmentation/drishti69/7_hough_do.png Graphic file (type p
+ng)
+<use Images/Results/Segmentation/drishti69/7_hough_do.png>
+Package pdftex.def Info: Images/Results/Segmentation/drishti69/7_hough_do.png  
+used on input line 28.
+(pdftex.def)             Requested size: 71.13188pt x 71.12492pt.
+
+Overfull \vbox (4.52498pt too high) detected at line 28
+ []
+
+) [24 <./Images/Results/Segmentation/drishti98/2_cup.png (PNG copy)> <./Images/
+Results/Segmentation/drishti98/6_hough_cup.png (PNG copy)> <./Images/Results/Se
+gmentation/drishti98/0_crop.png (PNG copy)> <./Images/Results/Segmentation/dris
+hti98/1_kmeans.png (PNG copy)> <./Images/Results/Segmentation/drishti98/3_do.pn
+g (PNG copy)> <./Images/Results/Segmentation/drishti98/7_hough_do.png (PNG copy
+)> <./Images/Results/Segmentation/drishti69/2_cup.png (PNG copy)> <./Images/Res
+ults/Segmentation/drishti69/6_hough_cup.png (PNG copy)> <./Images/Results/Segme
+ntation/drishti69/0_crop.png (PNG copy)> <./Images/Results/Segmentation/drishti
+69/1_kmeans.png (PNG copy)> <./Images/Results/Segmentation/drishti69/3_do.png (
+PNG copy)> <./Images/Results/Segmentation/drishti69/7_hough_do.png (PNG copy)>]
+(Figures/threshold_cdr.tex
+<Images/Results/Classification/ratio_legende.jpg, id=831, 595.47469pt x 362.855
+62pt>
+File: Images/Results/Classification/ratio_legende.jpg Graphic file (type jpg)
+<use Images/Results/Classification/ratio_legende.jpg>
+Package pdftex.def Info: Images/Results/Classification/ratio_legende.jpg  used 
+on input line 4.
+(pdftex.def)             Requested size: 253.3728pt x 154.39154pt.
+) (Figures/glaucoma_screening.tex
+<Images/Results/Results/drishti47/od_detect_frame.png, id=832, 903.375pt x 770.
+88pt>
+File: Images/Results/Results/drishti47/od_detect_frame.png Graphic file (type p
+ng)
+<use Images/Results/Results/drishti47/od_detect_frame.png>
+Package pdftex.def Info: Images/Results/Results/drishti47/od_detect_frame.png  
+used on input line 13.
+(pdftex.def)             Requested size: 99.58464pt x 84.9735pt.
+<Images/Results/Results/drishti47/0_crop.png, id=833, 602.25pt x 602.25pt>
+File: Images/Results/Results/drishti47/0_crop.png Graphic file (type png)
+<use Images/Results/Results/drishti47/0_crop.png>
+Package pdftex.def Info: Images/Results/Results/drishti47/0_crop.png  used on i
+nput line 14.
+(pdftex.def)             Requested size: 85.35826pt x 85.35284pt.
+<Images/Results/Results/drishti47/1_kmeans.png, id=834, 85.35826pt x 85.35826pt
+>
+File: Images/Results/Results/drishti47/1_kmeans.png Graphic file (type png)
+<use Images/Results/Results/drishti47/1_kmeans.png>
+Package pdftex.def Info: Images/Results/Results/drishti47/1_kmeans.png  used on
+ input line 15.
+(pdftex.def)             Requested size: 85.35826pt x 85.36455pt.
+<Images/Results/Results/drishti47/overlay.png, id=835, 602.25pt x 602.25pt>
+File: Images/Results/Results/drishti47/overlay.png Graphic file (type png)
+<use Images/Results/Results/drishti47/overlay.png>
+Package pdftex.def Info: Images/Results/Results/drishti47/overlay.png  used on 
+input line 16.
+(pdftex.def)             Requested size: 85.35826pt x 85.35284pt.
+<Images/Results/Results/drishti47/overlay_gt.png, id=836, 602.25pt x 602.25pt>
+File: Images/Results/Results/drishti47/overlay_gt.png Graphic file (type png)
+<use Images/Results/Results/drishti47/overlay_gt.png>
+Package pdftex.def Info: Images/Results/Results/drishti47/overlay_gt.png  used 
+on input line 17.
+(pdftex.def)             Requested size: 85.35826pt x 85.35284pt.
+<Images/Results/Results/drishti42/od_detect_frame.png, id=837, 903.375pt x 770.
+88pt>
+File: Images/Results/Results/drishti42/od_detect_frame.png Graphic file (type p
+ng)
+<use Images/Results/Results/drishti42/od_detect_frame.png>
+Package pdftex.def Info: Images/Results/Results/drishti42/od_detect_frame.png  
+used on input line 27.
+(pdftex.def)             Requested size: 99.58464pt x 84.9735pt.
+<Images/Results/Results/drishti42/0_crop.png, id=838, 602.25pt x 602.25pt>
+File: Images/Results/Results/drishti42/0_crop.png Graphic file (type png)
+<use Images/Results/Results/drishti42/0_crop.png>
+Package pdftex.def Info: Images/Results/Results/drishti42/0_crop.png  used on i
+nput line 28.
+(pdftex.def)             Requested size: 85.35826pt x 85.35284pt.
+<Images/Results/Results/drishti42/1_kmeans.png, id=839, 85.35826pt x 85.35826pt
+>
+File: Images/Results/Results/drishti42/1_kmeans.png Graphic file (type png)
+<use Images/Results/Results/drishti42/1_kmeans.png>
+Package pdftex.def Info: Images/Results/Results/drishti42/1_kmeans.png  used on
+ input line 29.
+(pdftex.def)             Requested size: 85.35826pt x 85.36455pt.
+<Images/Results/Results/drishti42/overlay.png, id=840, 602.25pt x 602.25pt>
+File: Images/Results/Results/drishti42/overlay.png Graphic file (type png)
+<use Images/Results/Results/drishti42/overlay.png>
+Package pdftex.def Info: Images/Results/Results/drishti42/overlay.png  used on 
+input line 30.
+(pdftex.def)             Requested size: 85.35826pt x 85.35284pt.
+<Images/Results/Results/drishti42/overlay_gt.png, id=841, 602.25pt x 602.25pt>
+File: Images/Results/Results/drishti42/overlay_gt.png Graphic file (type png)
+<use Images/Results/Results/drishti42/overlay_gt.png>
+Package pdftex.def Info: Images/Results/Results/drishti42/overlay_gt.png  used 
+on input line 31.
+(pdftex.def)             Requested size: 85.35826pt x 85.35284pt.
+<Images/Results/Results/drishti36/od_detect_frame.png, id=842, 903.375pt x 774.
+895pt>
+File: Images/Results/Results/drishti36/od_detect_frame.png Graphic file (type p
+ng)
+<use Images/Results/Results/drishti36/od_detect_frame.png>
+Package pdftex.def Info: Images/Results/Results/drishti36/od_detect_frame.png  
+used on input line 41.
+(pdftex.def)             Requested size: 99.58464pt x 85.41606pt.
+<Images/Results/Results/drishti36/0_crop.png, id=843, 602.25pt x 602.25pt>
+File: Images/Results/Results/drishti36/0_crop.png Graphic file (type png)
+<use Images/Results/Results/drishti36/0_crop.png>
+Package pdftex.def Info: Images/Results/Results/drishti36/0_crop.png  used on i
+nput line 42.
+(pdftex.def)             Requested size: 85.35826pt x 85.35284pt.
+<Images/Results/Results/drishti36/1_kmeans.png, id=844, 85.35826pt x 85.35826pt
+>
+File: Images/Results/Results/drishti36/1_kmeans.png Graphic file (type png)
+<use Images/Results/Results/drishti36/1_kmeans.png>
+Package pdftex.def Info: Images/Results/Results/drishti36/1_kmeans.png  used on
+ input line 43.
+(pdftex.def)             Requested size: 85.35826pt x 85.36455pt.
+<Images/Results/Results/drishti36/overlay.png, id=845, 602.25pt x 602.25pt>
+File: Images/Results/Results/drishti36/overlay.png Graphic file (type png)
+<use Images/Results/Results/drishti36/overlay.png>
+Package pdftex.def Info: Images/Results/Results/drishti36/overlay.png  used on 
+input line 44.
+(pdftex.def)             Requested size: 85.35826pt x 85.35284pt.
+<Images/Results/Results/drishti36/overlay_gt.png, id=846, 602.25pt x 602.25pt>
+File: Images/Results/Results/drishti36/overlay_gt.png Graphic file (type png)
+<use Images/Results/Results/drishti36/overlay_gt.png>
+Package pdftex.def Info: Images/Results/Results/drishti36/overlay_gt.png  used 
+on input line 45.
+(pdftex.def)             Requested size: 85.35826pt x 85.35284pt.
+<Images/Results/Results/drishti02/od_detect_frame.png, id=847, 903.375pt x 773.
+89125pt>
+File: Images/Results/Results/drishti02/od_detect_frame.png Graphic file (type p
+ng)
+<use Images/Results/Results/drishti02/od_detect_frame.png>
+Package pdftex.def Info: Images/Results/Results/drishti02/od_detect_frame.png  
+used on input line 55.
+(pdftex.def)             Requested size: 99.58464pt x 85.30542pt.
+<Images/Results/Results/drishti02/0_crop.png, id=848, 602.25pt x 602.25pt>
+File: Images/Results/Results/drishti02/0_crop.png Graphic file (type png)
+<use Images/Results/Results/drishti02/0_crop.png>
+Package pdftex.def Info: Images/Results/Results/drishti02/0_crop.png  used on i
+nput line 56.
+(pdftex.def)             Requested size: 85.35826pt x 85.35284pt.
+<Images/Results/Results/drishti02/1_kmeans.png, id=849, 85.35826pt x 85.35826pt
+>
+File: Images/Results/Results/drishti02/1_kmeans.png Graphic file (type png)
+<use Images/Results/Results/drishti02/1_kmeans.png>
+Package pdftex.def Info: Images/Results/Results/drishti02/1_kmeans.png  used on
+ input line 57.
+(pdftex.def)             Requested size: 85.35826pt x 85.36455pt.
+<Images/Results/Results/drishti02/overlay.png, id=850, 602.25pt x 602.25pt>
+File: Images/Results/Results/drishti02/overlay.png Graphic file (type png)
+<use Images/Results/Results/drishti02/overlay.png>
+Package pdftex.def Info: Images/Results/Results/drishti02/overlay.png  used on 
+input line 57.
+(pdftex.def)             Requested size: 85.35826pt x 85.35284pt.
+<Images/Results/Results/drishti02/overlay_gt.png, id=851, 602.25pt x 602.25pt>
+File: Images/Results/Results/drishti02/overlay_gt.png Graphic file (type png)
+<use Images/Results/Results/drishti02/overlay_gt.png>
+Package pdftex.def Info: Images/Results/Results/drishti02/overlay_gt.png  used 
+on input line 58.
+(pdftex.def)             Requested size: 85.35826pt x 85.35284pt.
+
+
+LaTeX Warning: Float too large for page by 11.72487pt on input line 68.
+
+) [25 <./Images/Results/Classification/ratio_legende.jpg>] [26 <./Images/Result
+s/Results/drishti47/od_detect_frame.png (PNG copy)> <./Images/Results/Results/d
+rishti47/0_crop.png (PNG copy)> <./Images/Results/Results/drishti47/1_kmeans.pn
+g> <./Images/Results/Results/drishti47/overlay.png (PNG copy)> <./Images/Result
+s/Results/drishti47/overlay_gt.png (PNG copy)> <./Images/Results/Results/drisht
+i42/od_detect_frame.png (PNG copy)> <./Images/Results/Results/drishti42/0_crop.
+png (PNG copy)> <./Images/Results/Results/drishti42/1_kmeans.png> <./Images/Res
+ults/Results/drishti42/overlay.png (PNG copy)> <./Images/Results/Results/drisht
+i42/overlay_gt.png (PNG copy)> <./Images/Results/Results/drishti36/od_detect_fr
+ame.png (PNG copy)> <./Images/Results/Results/drishti36/0_crop.png (PNG copy)> 
+<./Images/Results/Results/drishti36/1_kmeans.png> <./Images/Results/Results/dri
+shti36/overlay.png (PNG copy)> <./Images/Results/Results/drishti36/overlay_gt.p
+ng (PNG copy)> <./Images/Results/Results/drishti02/od_detect_frame.png (PNG cop
+y)> <./Images/Results/Results/drishti02/0_crop.png (PNG copy)> <./Images/Result
+s/Results/drishti02/1_kmeans.png> <./Images/Results/Results/drishti02/overlay.p
+ng (PNG copy)> <./Images/Results/Results/drishti02/overlay_gt.png (PNG copy)>]
+(Figures/glaucoma_screening_failures.tex
+<Images/Results/Segmentation/drishti101/od_detect.jpg, id=869, 99.60226pt x 85.
+06071pt>
+File: Images/Results/Segmentation/drishti101/od_detect.jpg Graphic file (type j
+pg)
+<use Images/Results/Segmentation/drishti101/od_detect.jpg>
+Package pdftex.def Info: Images/Results/Segmentation/drishti101/od_detect.jpg  
+used on input line 15.
+(pdftex.def)             Requested size: 99.58464pt x 85.04492pt.
+<Images/Results/Segmentation/drishti101/0_crop.png, id=870, 602.25pt x 602.25pt
+>
+File: Images/Results/Segmentation/drishti101/0_crop.png Graphic file (type png)
+
+<use Images/Results/Segmentation/drishti101/0_crop.png>
+Package pdftex.def Info: Images/Results/Segmentation/drishti101/0_crop.png  use
+d on input line 16.
+(pdftex.def)             Requested size: 85.35826pt x 85.35284pt.
+<Images/Results/Segmentation/drishti101/1_kmeans.png, id=871, 602.25pt x 602.25
+pt>
+File: Images/Results/Segmentation/drishti101/1_kmeans.png Graphic file (type pn
+g)
+<use Images/Results/Segmentation/drishti101/1_kmeans.png>
+Package pdftex.def Info: Images/Results/Segmentation/drishti101/1_kmeans.png  u
+sed on input line 17.
+(pdftex.def)             Requested size: 85.35826pt x 85.35284pt.
+<Images/Results/Segmentation/drishti101/overlay.png, id=872, 602.25pt x 602.25p
+t>
+File: Images/Results/Segmentation/drishti101/overlay.png Graphic file (type png
+)
+<use Images/Results/Segmentation/drishti101/overlay.png>
+Package pdftex.def Info: Images/Results/Segmentation/drishti101/overlay.png  us
+ed on input line 18.
+(pdftex.def)             Requested size: 85.35826pt x 85.35284pt.
+<Images/Results/Segmentation/drishti101/overlay_gt.png, id=873, 602.25pt x 602.
+25pt>
+File: Images/Results/Segmentation/drishti101/overlay_gt.png Graphic file (type 
+png)
+<use Images/Results/Segmentation/drishti101/overlay_gt.png>
+Package pdftex.def Info: Images/Results/Segmentation/drishti101/overlay_gt.png 
+ used on input line 19.
+(pdftex.def)             Requested size: 85.35826pt x 85.35284pt.
+) [27 <./Images/Results/Segmentation/drishti101/od_detect.jpg> <./Images/Result
+s/Segmentation/drishti101/0_crop.png (PNG copy)> <./Images/Results/Segmentation
+/drishti101/1_kmeans.png (PNG copy)> <./Images/Results/Segmentation/drishti101/
+overlay.png (PNG copy)> <./Images/Results/Segmentation/drishti101/overlay_gt.pn
+g (PNG copy)>]
+(Tableaux/tableau_classification.tex)) [28] (discussion.tex [29])
+(conclusion_perspectives.tex
+Underfull \hbox (badness 10000) in paragraph at lines 1--4
+
+ []
+
+[30]) (main.bbl [31] [32] [33] [34] [35] [36] [37]) [38]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 111.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 111.
+ (main.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 111.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 111.
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: ABC75D7BD5BA45654517E32637494F7A;1684.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 111.
+ ) 
+Here is how much of TeX's memory you used:
+ 22681 strings out of 492946
+ 470349 string characters out of 3122713
+ 551018 words of memory out of 3000000
+ 25860 multiletter control sequences out of 15000+200000
+ 9934 words of font info for 36 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 55i,16n,71p,1351b,602s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/Amed Mvoulana/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/
+amsfonts/cm/cmbx10.pfb><C:/Users/Amed Mvoulana/AppData/Local/Programs/MiKTeX 2.
+9/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Users/Amed Mvoulana/AppData/Loca
+l/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/Amed
+ Mvoulana/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex
+10.pfb><C:/Users/Amed Mvoulana/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
+blic/amsfonts/cm/cmmi10.pfb><C:/Users/Amed Mvoulana/AppData/Local/Programs/MiKT
+eX 2.9/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/Amed Mvoulana/AppData
+/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/A
+med Mvoulana/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
+mmi8.pfb><C:/Users/Amed Mvoulana/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/
+public/amsfonts/cm/cmmi9.pfb><C:/Users/Amed Mvoulana/AppData/Local/Programs/MiK
+TeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Amed Mvoulana/AppDat
+a/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/
+Amed Mvoulana/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
+cmr6.pfb><C:/Users/Amed Mvoulana/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/
+public/amsfonts/cm/cmr7.pfb><C:/Users/Amed Mvoulana/AppData/Local/Programs/MiKT
+eX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Amed Mvoulana/AppData/
+Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/Ame
+d Mvoulana/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cms
+y10.pfb><C:/Users/Amed Mvoulana/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/p
+ublic/amsfonts/cm/cmsy6.pfb><C:/Users/Amed Mvoulana/AppData/Local/Programs/MiKT
+eX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/Amed Mvoulana/AppData
+/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/A
+med Mvoulana/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
+msy9.pfb><C:/Users/Amed Mvoulana/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/
+public/amsfonts/cm/cmti10.pfb><C:/Users/Amed Mvoulana/AppData/Local/Programs/Mi
+KTeX 2.9/fonts/type1/public/amsfonts/cm/cmti7.pfb><C:/Users/Amed Mvoulana/AppDa
+ta/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti8.pfb><C:/Users
+/Amed Mvoulana/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
+/cmtt8.pfb>
+Output written on main.pdf (38 pages, 14022722 bytes).
+PDF statistics:
+ 1083 PDF objects out of 1200 (max. 8388607)
+ 197 named destinations out of 1000 (max. 500000)
+ 587 words of extra memory for PDF output out of 10000 (max. 10000000)
+

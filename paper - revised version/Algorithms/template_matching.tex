@@ -1,0 +1,27 @@
+\begin{algorithm}[!htbp]
+
+	\caption{Template matching}
+	\label{alg:templatematching}
+	{\fontsize{10}{9.5}\selectfont
+	\begin{algorithmic}[1]
+		\State \textbf{Input:} retinal image $I$, list of coordinates $centroids$, histogram template $od\_hist\_template$ 
+		\State \textbf{Output:} Coordinates of the OD $OD\_coordinates$
+		\medbreak
+		
+		\Function{template\_matching}{$I$}
+
+			\For {all $c$ in $centroids$}
+				\State $crop \gets image[c, s]$\Comment{crop around the point $c$, with square size $s \times s$}
+				\State $hist \gets$ \textsc{calcul\_hist}$(crop)$
+				\State $corr \gets$ \textsc{correlation}$(hist, od\_hist\_template)$					
+				\If{$corr > max\_corr$}
+					\State $max\_corr \gets corr$
+					\State $center \gets c$
+				\EndIf
+			\EndFor
+			\State \textbf{return} $OD\_coordinates$
+		\EndFunction
+		
+	\end{algorithmic}
+	}
+\end{algorithm}

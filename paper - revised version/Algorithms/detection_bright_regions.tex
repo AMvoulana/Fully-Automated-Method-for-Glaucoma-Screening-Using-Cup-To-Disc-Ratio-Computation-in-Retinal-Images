@@ -1,0 +1,32 @@
+\begin{algorithm}[!htbp]
+	
+	\caption{Detection of the bright regions}
+	\label{alg:detectbrightregions}
+	{\fontsize{10}{9.5}\selectfont	
+	\begin{algorithmic}[1]
+		\State \textbf{Input:} retinal image $I$ 
+		\State \textbf{Output:} list of coordinates $centroids$
+		\medbreak
+		
+		\Function{detect\_bright\_regions}{$I$}
+			\State $I \gets$ \textsc{histogram\_equalization}$(green\_level(I))$
+			\State $binary \gets$ \textsc{otsu\_thresholding}$(I)$
+			\State $map \gets$ \textsc{distance\_map}$(binary)$
+			\For {all $p$ in $map$}
+				\If{$p > max(map)/2$}
+					\State $maxima[i,j] \gets 255$
+				\Else
+					\State $maxima[i,j] \gets 0$
+				\EndIf
+			\EndFor
+			
+			\For {all $convex\_component$ in $maxima$}
+				\State $c \gets $\textsc{center\_of\_mass}$(convex\_component)$
+				\State $centroids \gets centroids.append(c)$
+			\EndFor
+			\State \textbf{return} $centroids$
+		\EndFunction
+		
+	\end{algorithmic}
+	}
+\end{algorithm}

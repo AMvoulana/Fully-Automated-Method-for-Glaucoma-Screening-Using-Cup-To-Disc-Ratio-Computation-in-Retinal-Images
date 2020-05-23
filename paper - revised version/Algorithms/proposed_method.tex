@@ -1,0 +1,21 @@
+\begin{algorithm}[t]
+	
+	\caption{Pseudo-code of the proposed method for glaucoma screening}
+	\label{alg:proposedmethod}
+	
+	\begin{algorithmic}[1]
+		
+		\State \textbf{Input:} retinal image $I$ 
+		\State \textbf{Output:} Glaucoma diagnosis $diag$
+		\medbreak
+		\Function{proposed\_method}{$I$}
+		\State $OD\_crop \gets$ \textsc{od\_detection}$(I)$
+		\State $optic\_cup, optic\_disc \gets$ \textsc{oc\_od\_segmentation}$(OD\_crop)$
+		\State $diag \gets$ \textsc{glaucoma\_screening}$(optic\_cup, optic\_disc)$
+		\medbreak
+		\State \textbf{return} $diag$
+		\EndFunction
+		
+	\end{algorithmic}
+	
+\end{algorithm}

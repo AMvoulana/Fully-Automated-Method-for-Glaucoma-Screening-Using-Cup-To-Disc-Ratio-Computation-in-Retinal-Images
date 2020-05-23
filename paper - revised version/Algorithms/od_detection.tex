@@ -1,0 +1,25 @@
+\begin{algorithm}[h]
+	
+	\caption{OD detection}
+	\label{alg:oddetection}
+	{\fontsize{10}{9.5}\selectfont
+	\begin{algorithmic}[1]
+		
+		\State \textbf{Input:} retinal image $I$ 
+		\State \textbf{Output:} OD sub-image $OD\_crop$
+		\medbreak
+
+		\Function{od\_detection}{$I$}
+			\State $centroids \gets$ \textsc{detect\_bright\_regions}$(I)$\Comment{see Algorithm 2}
+			\If{$length(centroids) > 1$}
+			\State $center \gets$ \textsc{template\_matching}$(od\_hist\_template, centroids, image)$\Comment{see Algorithm 3}
+			\Else
+			\State $center \gets centroids[0]$
+			\EndIf
+			\State $OD\_crop \gets I[center, S]$
+			\State \textbf{return} $OD\_crop$
+		\EndFunction
+		
+	\end{algorithmic}
+	}
+\end{algorithm}

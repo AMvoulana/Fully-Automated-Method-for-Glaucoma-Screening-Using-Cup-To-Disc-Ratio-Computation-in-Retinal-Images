@@ -1,0 +1,44 @@
+\begin{algorithm}[h]
+	
+	\caption{OC and OD segmentation}
+	\label{alg:ocodsegmentation}
+	{\fontsize{10}{9}\selectfont
+	\begin{algorithmic}[1]
+		
+		\State \textbf{Input:} OD sub-image $OD\_crop$
+		\State \textbf{Output:} OC segmentation $optic\_cup$, OD segmentation $optic\_disc$
+		\medbreak
+		
+		\Function{oc\_od\_segmentation}{$OD\_crop$}
+		\State $gray\_level \gets$ \textsc{gray\_level}$(OD\_crop)$
+		\State $image\_kmeans, label, centers \gets$ \textsc{k-means}$(gray\_level, 4)$ \label{kmeansoperation}
+		\State $maximum \gets max(centers)$
+		\State $second \gets second(centers)$
+		\State $first\_label \gets label[maximum]$
+		\State $second\_label \gets label[second]$
+		\medbreak
+		\For {all $p$ in $image\_kmeans$}
+			\If{$label(p) == first\_label$}
+				\State $optic\_cup[p] \gets 255$
+			\ElsIf{$label(p) == second\_label$}
+				\State $optic\_disc[p] \gets 255$
+			\EndIf
+		\EndFor
+		\medbreak
+		\For{$image$ in ${optic\_cup, optic\_disc}$}
+			\State $circle \gets$ \textsc{circular\_hough\_transform}$(image)$ \label{houghoperation}
+			\For{p in $image$}
+				\If{$p$ in $circle$ and $p == 0$}
+					\State $p \gets 255$
+				\ElsIf{$p$ outside $circle$ and $p == 255$}
+					\State $p \gets 0$
+				\EndIf
+			\EndFor
+		\EndFor
+		\medbreak
+		\State \textbf{return} $optic\_cup$, $optic\_disc$
+		\EndFunction
+		
+	\end{algorithmic}
+	}
+\end{algorithm}

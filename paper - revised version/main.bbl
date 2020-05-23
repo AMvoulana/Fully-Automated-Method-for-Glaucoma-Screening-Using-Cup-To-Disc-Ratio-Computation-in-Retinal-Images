@@ -1,0 +1,593 @@
+\begin{thebibliography}{}
+
+\bibitem[\protect\astroncite{Abr{\`a}moff et~al.}{2010}]{abramoff}
+Abr{\`a}moff, M.~D., Garvin, M.~K., and Sonka, M. (2010).
+\newblock Retinal imaging and image analysis.
+\newblock {\em IEEE reviews in biomedical engineering}, 3:169--208.
+
+\bibitem[\protect\astroncite{{Access Economics}}{2008}]{centreeyeres}
+{Access Economics} (2008).
+\newblock Tunnel vision: the economic impact of primary open angle glaucoma.
+
+\bibitem[\protect\astroncite{Achanta et~al.}{2012}]{slic}
+Achanta, R., Shaji, A., Smith, K., Lucchi, A., Fua, P., and S{\"u}sstrunk, S.
+  (2012).
+\newblock Slic superpixels compared to state-of-the-art superpixel methods.
+\newblock {\em IEEE transactions on pattern analysis and machine intelligence},
+  34(11):2274--2282.
+
+\bibitem[\protect\astroncite{Aquino et~al.}{2010}]{aquino}
+Aquino, A., Geg{\'u}ndez-Arias, M.~E., and Mar{\'\i}n, D. (2010).
+\newblock Detecting the optic disc boundary in digital fundus images using
+  morphological, edge detection, and feature extraction techniques.
+\newblock {\em IEEE transactions on medical imaging}, 29(11):1860--1869.
+
+\bibitem[\protect\astroncite{Ayub et~al.}{2016}]{ayub}
+Ayub, J., Ahmad, J., Muhammad, J., Aziz, L., Ayub, S., Akram, U., and Basit, I.
+  (2016).
+\newblock Glaucoma detection through optic disc and cup segmentation using
+  k-mean clustering.
+\newblock In {\em 2016 International Conference on Computing, Electronic and
+  Electrical Engineering (ICE Cube)}, pages 143--147. IEEE.
+
+\bibitem[\protect\astroncite{Ben~Sayadia et~al.}{2018}]{sayadia2}
+Ben~Sayadia, S., Elloumi, Y., Akil, M., and Bedoui, M.~H. (2018).
+\newblock Computational efficiency of optic disk detection on fundus image: a
+  survey.
+\newblock In {\em Society of Photo-Optical Instrumentation Engineers (SPIE)
+  Conference Series}, volume 10670.
+
+\bibitem[\protect\astroncite{Blanckenberg et~al.}{2011}]{blanckenberg}
+Blanckenberg, M., Worst, C., and Scheffer, C. (2011).
+\newblock Development of a mobile phone based ophthalmoscope for telemedicine.
+\newblock In {\em 2011 Annual International Conference of the IEEE Engineering
+  in Medicine and Biology Society}, pages 5236--5239. IEEE.
+
+\bibitem[\protect\astroncite{Bock et~al.}{2007}]{bock}
+Bock, R., Meier, J., Michelson, G., Nyùl, L., and Hornegger, J. (2007).
+\newblock Classifying glaucoma with image-based features from fundus
+  photographs.
+\newblock {\em Pattern Recognition}, page 355–364.
+
+\bibitem[\protect\astroncite{Bock et~al.}{2010}]{bock2010}
+Bock, R., Meier, J., Ny{\'u}l, L.~G., Hornegger, J., and Michelson, G. (2010).
+\newblock Glaucoma risk index: automated glaucoma detection from color fundus
+  images.
+\newblock {\em Medical image analysis}, 14(3):471--481.
+
+\bibitem[\protect\astroncite{Bourne}{2007}]{ophthal1}
+Bourne, R.~R. (2007).
+\newblock Papille optique et glaucome.
+\newblock {\em Revue de Sant{\'e} Oculaire Communautaire}, 4(3):8--9.
+
+\bibitem[\protect\astroncite{Bourne et~al.}{2017}]{ref1}
+Bourne, R.~R., Flaxman, S.~R., Braithwaite, T., Cicinelli, M.~V., Das, A.,
+  Jonas, J.~B., Keeffe, J., Kempen, J.~H., Leasher, J., Limburg, H., et~al.
+  (2017).
+\newblock Magnitude, temporal trends, and projections of the global prevalence
+  of blindness and distance and near vision impairment: a systematic review and
+  meta-analysis.
+\newblock {\em The Lancet Global Health}, 5(9):e888--e897.
+
+\bibitem[\protect\astroncite{Bourouis et~al.}{2014}]{bourouis}
+Bourouis, A., Feham, M., Hossain, M.~A., and Zhang, L. (2014).
+\newblock An intelligent mobile based decision support system for retinal
+  disease diagnosis.
+\newblock {\em Decision Support Systems}, 59:341--350.
+
+\bibitem[\protect\astroncite{Budai et~al.}{2013}]{hrf}
+Budai, A., Bock, R., Maier, A., Hornegger, J., and Michelson, G. (2013).
+\newblock Robust vessel segmentation in fundus images.
+\newblock {\em International journal of biomedical imaging}, 2013.
+
+\bibitem[\protect\astroncite{Celebi et~al.}{2013}]{celebi}
+Celebi, M.~E., Kingravi, H.~A., and Vela, P.~A. (2013).
+\newblock A comparative study of efficient initialization methods for the
+  k-means clustering algorithm.
+\newblock {\em Expert systems with applications}, 40(1):200--210.
+
+\bibitem[\protect\astroncite{Chakravarty and Sivaswamy}{2017}]{chakravarty}
+Chakravarty, A. and Sivaswamy, J. (2017).
+\newblock Joint optic disc and cup boundary extraction from monocular fundus
+  images.
+\newblock {\em Computer methods and programs in biomedicine}, 147:51--61.
+
+\bibitem[\protect\astroncite{Cheng et~al.}{2013}]{cheng}
+Cheng, J., Liu, J., Xu, Y., Yin, F., Wong, D. W.~K., Tan, N.-M., Tao, D.,
+  Cheng, C.-Y., Aung, T., and Wong, T.~Y. (2013).
+\newblock Superpixel classification based optic disc and optic cup segmentation
+  for glaucoma screening.
+\newblock {\em IEEE transactions on Medical Imaging}, 32(6):1019--1032.
+
+\bibitem[\protect\astroncite{Chr{\'a}stek et~al.}{2005}]{chrastek}
+Chr{\'a}stek, R., Wolf, M., Donath, K., Niemann, H., Paulus, D., Hothorn, T.,
+  Lausen, B., L{\"a}mmer, R., Mardin, C.~Y., and Michelson, G. (2005).
+\newblock Automated segmentation of the optic nerve head for diagnosis of
+  glaucoma.
+\newblock {\em Medical Image Analysis}, 9(4):297--314.
+
+\bibitem[\protect\astroncite{Costagliola et~al.}{2009a}]{ref15}
+Costagliola, C., Dell’Omo, R., Romano, M., Zeppa, L., and Parmeggiani, F.
+  (2009a).
+\newblock Pharmacotherapy of intraocular pressure: part ii.
+  parasympathomimetic, sympathomimetic and sympatholytics.
+\newblock {\em Expert Opin Pharmacother}, 10(17):2859--2870.
+
+\bibitem[\protect\astroncite{Costagliola et~al.}{2009b}]{ref14}
+Costagliola, C., Dell'Omo, R., Romano, M.~R., Rinaldi, M., Zeppa, L., and
+  Parmeggiani, F. (2009b).
+\newblock Pharmacotherapy of intraocular pressure: part i. parasympathomimetic,
+  sympathomimetic and sympatholytics.
+\newblock {\em Expert opinion on Pharmacotherapy}, 10(16):2663--2677.
+
+\bibitem[\protect\astroncite{Decenci{\`e}re et~al.}{2013}]{eophtha}
+Decenci{\`e}re, E., Cazuguel, G., Zhang, X., Thibault, G., Klein, J.-C., Meyer,
+  F., Marcotegui, B., Quellec, G., Lamard, M., Danno, R., et~al. (2013).
+\newblock Teleophta: Machine learning and image processing methods for
+  teleophthalmology.
+\newblock {\em Irbm}, 34(2):196--203.
+
+\bibitem[\protect\astroncite{Decenci{\`e}re et~al.}{2014}]{messidor}
+Decenci{\`e}re, E., Zhang, X., Cazuguel, G., Lay, B., Cochener, B., Trone, C.,
+  Gain, P., Ordonez, R., Massin, P., Erginay, A., et~al. (2014).
+\newblock Feedback on a publicly distributed image database: the messidor
+  database.
+\newblock {\em Image Analysis \& Stereology}, 33(3):231--234.
+
+\bibitem[\protect\astroncite{Dehghani et~al.}{2012}]{dehghani}
+Dehghani, A., Moghaddam, H.~A., and Moin, M.-S. (2012).
+\newblock Optic disc localization in retinal images using histogram matching.
+\newblock {\em EURASIP Journal on Image and Video Processing}, 2012(1):19.
+
+\bibitem[\protect\astroncite{Elloumi et~al.}{2018}]{elloumi}
+Elloumi, Y., Akil, M., and Kehtarnavaz, N. (2018).
+\newblock A mobile computer aided system for optic nerve head detection.
+\newblock {\em Computer methods and programs in biomedicine}, 162:139--148.
+
+\bibitem[\protect\astroncite{Fingeret et~al.}{2005}]{fingeret}
+Fingeret, M., Medeiros, F.~A., Susanna~Jr, R., and Weinreb, R.~N. (2005).
+\newblock Five rules to evaluate the optic disc and retinal nerve fiber layer
+  for glaucoma.
+\newblock {\em Optometry-Journal of the American Optometric Association},
+  76(11):661--668.
+
+\bibitem[\protect\astroncite{Flaxman et~al.}{2017}]{ref5}
+Flaxman, S.~R., Bourne, R.~R., Resnikoff, S., Ackland, P., Braithwaite, T.,
+  Cicinelli, M.~V., Das, A., Jonas, J.~B., Keeffe, J., Kempen, J.~H., et~al.
+  (2017).
+\newblock Global causes of blindness and distance vision impairment 1990--2020:
+  a systematic review and meta-analysis.
+\newblock {\em The Lancet Global Health}, 5(12):e1221--e1234.
+
+\bibitem[\protect\astroncite{Foracchia et~al.}{2004}]{foracchia}
+Foracchia, M., Grisan, E., and Ruggeri, A. (2004).
+\newblock Detection of optic disc in retinal images by means of a geometrical
+  model of vessel structure.
+\newblock {\em IEEE transactions on medical imaging}, 23(10):1189--1195.
+
+\bibitem[\protect\astroncite{Foster and Johnson}{1990}]{Foster}
+Foster, A. and Johnson, G.~J. (1990).
+\newblock Magnitude and causes of blindness in the developing world.
+\newblock {\em International ophthalmology}, 14(3):135--140.
+
+\bibitem[\protect\astroncite{Foster et~al.}{2002}]{foster2002definition}
+Foster, P.~J., Buhrmann, R., Quigley, H.~A., and Johnson, G.~J. (2002).
+\newblock The definition and classification of glaucoma in prevalence surveys.
+\newblock {\em British journal of ophthalmology}, 86(2):238--242.
+
+\bibitem[\protect\astroncite{Ghosh and Dubey}{2013}]{ghosh}
+Ghosh, S. and Dubey, S.~K. (2013).
+\newblock Comparative analysis of k-means and fuzzy c-means algorithms.
+\newblock {\em International Journal of Advanced Computer Science and
+  Applications}, 4(4).
+
+\bibitem[\protect\astroncite{Giraddi et~al.}{2017}]{giraddi}
+Giraddi, S., Pujari, J., and Hiremath, P. (2017).
+\newblock Optic disc detection using geometric properties and gvf snake.
+\newblock In {\em 2017 1st International Conference on Intelligent Systems and
+  Information Management (ICISIM)}, pages 141--146. IEEE.
+
+\bibitem[\protect\astroncite{Guerre et~al.}{2014}]{guerre}
+Guerre, A., Martinez-del Rincon, J., Miller, P., and Azuara-Blanco, A. (2014).
+\newblock Automatic analysis of digital retinal images for glaucoma detection.
+\newblock {\em Irish Machine Vision and Image Processing Conference}.
+
+\bibitem[\protect\astroncite{Gulshan et~al.}{2016}]{gulshan}
+Gulshan, V., Peng, L., Coram, M., Stumpe, M.~C., Wu, D., Narayanaswamy, A.,
+  Venugopalan, S., Widner, K., Madams, T., Cuadros, J., et~al. (2016).
+\newblock Development and validation of a deep learning algorithm for detection
+  of diabetic retinopathy in retinal fundus photographs.
+\newblock {\em Jama}, 316(22):2402--2410.
+
+\bibitem[\protect\astroncite{Hashim et~al.}{2015}]{hashim}
+Hashim, F., Salem, N., and Seddik, A.~F. (2015).
+\newblock Optic disc boundary detection from digital fundus images.
+\newblock {\em Journal of Medical Imaging and Health Informatics}, 5(1):50--56.
+
+\bibitem[\protect\astroncite{Hassanein et~al.}{2015}]{houghsurvey}
+Hassanein, A.~S., Mohammad, S., Sameer, M., and Ragab, M.~E. (2015).
+\newblock A survey on hough transform, theory, techniques and applications.
+\newblock {\em arXiv preprint arXiv:1502.02160}.
+
+\bibitem[\protect\astroncite{Hoover and Goldbaum}{2003}]{stare2}
+Hoover, A. and Goldbaum, M. (2003).
+\newblock Locating the optic nerve in a retinal image using the fuzzy
+  convergence of the blood vessels.
+\newblock {\em IEEE transactions on medical imaging}, 22(8):951--958.
+
+\bibitem[\protect\astroncite{Hoover et~al.}{1998}]{stare}
+Hoover, A., Kouznetsova, V., and Goldbaum, M. (1998).
+\newblock Locating blood vessels in retinal images by piece-wise threshold
+  probing of a matched filter response.
+\newblock In {\em Proceedings of the AMIA Symposium}, page 931. American
+  Medical Informatics Association.
+
+\bibitem[\protect\astroncite{Hu et~al.}{2017}]{hu}
+Hu, M., Zhu, C., Li, X., and Xu, Y. (2017).
+\newblock Optic cup segmentation from fundus images for glaucoma diagnosis.
+\newblock {\em Bioengineered}, 8(1):21--28.
+
+\bibitem[\protect\astroncite{Inoue et~al.}{2006}]{inoue}
+Inoue, N., Yanashima, K., Magatani, K., and Kurihara, T. (2006).
+\newblock Development of a simple diagnostic method for the glaucoma using
+  ocular fundus pictures.
+\newblock In {\em 2005 IEEE Engineering in Medicine and Biology 27th Annual
+  Conference}, pages 3355--3358. IEEE.
+
+\bibitem[\protect\astroncite{Jonas et~al.}{1992}]{Jonas}
+Jonas, J.~B., Fernández, M.~C., and Naumann, G. O.~H. (1992).
+\newblock {Glaucomatous Parapapillary Atrophy: Occurrence and Correlations}.
+\newblock {\em JAMA Ophthalmology}, 110(2):214--222.
+
+\bibitem[\protect\astroncite{Joshi et~al.}{2011}]{joshi}
+Joshi, G.~D., Sivaswamy, J., and Krishnadas, S. (2011).
+\newblock Optic disk and cup segmentation from monocular color retinal images
+  for glaucoma assessment.
+\newblock {\em IEEE transactions on medical imaging}, 30(6):1192--1205.
+
+\bibitem[\protect\astroncite{K{\"a}lvi{\"a}inen and Uusitalo}{2007}]{diaretdb1}
+K{\"a}lvi{\"a}inen, R. and Uusitalo, H. (2007).
+\newblock Diaretdb1 diabetic retinopathy database and evaluation protocol.
+\newblock In {\em Medical Image Understanding and Analysis}, volume 2007,
+  page~61. Citeseer.
+
+\bibitem[\protect\astroncite{Kauppi et~al.}{2006}]{diaretdb0}
+Kauppi, T., Kalesnykiene, V., Kamarainen, J.-K., Lensu, L., Sorri, I.,
+  Uusitalo, H., K{\"a}lvi{\"a}inen, H., and Pietil{\"a}, J. (2006).
+\newblock Diaretdb0: Evaluation database and methodology for diabetic
+  retinopathy algorithms.
+\newblock {\em Machine Vision and Pattern Recognition Research Group,
+  Lappeenranta University of Technology, Finland}, 73.
+
+\bibitem[\protect\astroncite{Kingman}{2004}]{Kingman}
+Kingman, S. (2004).
+\newblock Glaucoma is second leading cause of blindness globally.
+\newblock {\em Bulletin of the World Health Organization}, 82:887--888.
+
+\bibitem[\protect\astroncite{Kodinariya and Prashant}{2014}]{kodinariya}
+Kodinariya, T.~M. and Prashant, R.~M. (2014).
+\newblock Survey on exiting method for selecting initial centroids in k-means
+  clustering.
+\newblock {\em International Journal of Engineering Development and Research}.
+
+\bibitem[\protect\astroncite{Lim et~al.}{2012}]{lim}
+Lim, T.-C., Chattopadhyay, S., and Acharya, U.~R. (2012).
+\newblock A survey and comparative study on the instruments for glaucoma
+  detection.
+\newblock {\em Medical engineering \& physics}, 34(2):129--139.
+
+\bibitem[\protect\astroncite{Liu et~al.}{2009}]{liu}
+Liu, J., Wong, D., Lim, J., Li, H., Tan, N., Zhang, Z., Wong, T., and Lavanya,
+  R. (2009).
+\newblock Argali: an automatic cup-to-disc ratio measurement system for
+  glaucoma analysis using level-set image processing.
+\newblock In {\em 13th International Conference on Biomedical Engineering},
+  pages 559--562. Springer.
+
+\bibitem[\protect\astroncite{MacQueen et~al.}{1967}]{kmeans}
+MacQueen, J. et~al. (1967).
+\newblock Some methods for classification and analysis of multivariate
+  observations.
+\newblock In {\em Proceedings of the fifth Berkeley symposium on mathematical
+  statistics and probability}, volume~1, pages 281--297. Oakland, CA, USA.
+
+\bibitem[\protect\astroncite{Maheshwari et~al.}{2017}]{maheshwari}
+Maheshwari, S., Pachori, R.~B., Kanhangad, V., Bhandary, S.~V., and Acharya,
+  U.~R. (2017).
+\newblock Iterative variational mode decomposition based automated detection of
+  glaucoma using fundus images.
+\newblock {\em Computers in biology and medicine}, 88:142--149.
+
+\bibitem[\protect\astroncite{Mahfouz and Fahmy}{2010}]{mahfouz}
+Mahfouz, A.~E. and Fahmy, A.~S. (2010).
+\newblock Fast localization of the optic disc using projection of image
+  features.
+\newblock {\em IEEE Transactions on Image Processing}, 19(12):3285--3289.
+
+\bibitem[\protect\astroncite{Maldhure and Dixit}{2015}]{maldhure}
+Maldhure, P.~N. and Dixit, V. (2015).
+\newblock Glaucoma detection using optic cup and optic disc segmentation.
+\newblock {\em International Journal of Engineering Trends and Technology
+  (IJETT)}, 20(2):52--55.
+
+\bibitem[\protect\astroncite{Medeiros et~al.}{2005}]{medeiros}
+Medeiros, F.~A., Zangwill, L.~M., Bowd, C., Vessani, R.~M., Susanna~Jr, R., and
+  Weinreb, R.~N. (2005).
+\newblock Evaluation of retinal nerve fiber layer, optic nerve head, and
+  macular thickness measurements for glaucoma detection using optical coherence
+  tomography.
+\newblock {\em American journal of ophthalmology}, 139(1):44--55.
+
+\bibitem[\protect\astroncite{Mukhopadhyay and Chaudhuri}{2015}]{mukhopadhyay}
+Mukhopadhyay, P. and Chaudhuri, B.~B. (2015).
+\newblock A survey of hough transform.
+\newblock {\em Pattern Recognition}, 48(3):993--1010.
+
+\bibitem[\protect\astroncite{Niemeijer et~al.}{2010}]{roc}
+Niemeijer, M., Van~Ginneken, B., Cree, M.~J., Mizutani, A., Quellec, G.,
+  S{\'a}nchez, C.~I., Zhang, B., Hornero, R., Lamard, M., Muramatsu, C., et~al.
+  (2010).
+\newblock Retinopathy online challenge: automatic detection of microaneurysms
+  in digital color fundus photographs.
+\newblock {\em IEEE transactions on medical imaging}, 29(1):185--195.
+
+\bibitem[\protect\astroncite{Norouzifard et~al.}{2018}]{norouzifard}
+Norouzifard, M., Nemati, A., GholamHosseini, H., Klette, R., Nouri-Mahdavi, K.,
+  and Yousefi, S. (2018).
+\newblock Automated glaucoma diagnosis using deep and transfer learning:
+  Proposal of a system for clinical testing.
+\newblock In {\em 2018 International Conference on Image and Vision Computing
+  New Zealand (IVCNZ)}, pages 1--6. IEEE.
+
+\bibitem[\protect\astroncite{Nugraha and Soesanti}{2016}]{nugraha}
+Nugraha, G.~S. and Soesanti, I. (2016).
+\newblock Segmentation of the optic disc and optic cup using histogram
+  feature-based adaptive threshold for cup to disk ratio.
+\newblock In {\em MATEC Web of Conferences}, volume~75, page 05003. EDP
+  Sciences.
+
+\bibitem[\protect\astroncite{Ortega et~al.}{2009a}]{varia2}
+Ortega, M., Penedo, M.~G., Rouco, J., Barreira, N., and Carreira, M.~J.
+  (2009a).
+\newblock Personal verification based on extraction and characterisation of
+  retinal feature points.
+\newblock {\em Journal of Visual Languages \& Computing}, 20(2):80--90.
+
+\bibitem[\protect\astroncite{Ortega et~al.}{2009b}]{varia}
+Ortega, M., Penedo, M.~G., Rouco, J., Barreira, N., and Carreira, M.~J.
+  (2009b).
+\newblock Retinal verification using a feature points-based biometric pattern.
+\newblock {\em EURASIP Journal on Advances in Signal Processing}, 2009:2.
+
+\bibitem[\protect\astroncite{Osareh et~al.}{2003}]{osareh}
+Osareh, A., Mirmehdi, M., Thomas, B., and Markham, R. (2003).
+\newblock Automated identification of diabetic retinal exudates in digital
+  colour images.
+\newblock {\em British Journal of Ophthalmology}, 87(10):1220--1223.
+
+\bibitem[\protect\astroncite{Pascolini and Mariotti}{2012}]{ref2}
+Pascolini, D. and Mariotti, S.~P. (2012).
+\newblock Global estimates of visual impairment: 2010.
+\newblock {\em British Journal of Ophthalmology}, 96(5):614--618.
+
+\bibitem[\protect\astroncite{Pedersen}{2007}]{pedersen}
+Pedersen, S. J.~K. (2007).
+\newblock Circular hough transform.
+\newblock {\em Aalborg University, Vision, Graphics, and Interactive Systems},
+  123(6).
+
+\bibitem[\protect\astroncite{Pizer et~al.}{1987}]{pizer}
+Pizer, S.~M., Amburn, E.~P., Austin, J.~D., Cromartie, R., Geselowitz, A.,
+  Greer, T., ter Haar~Romeny, B., Zimmerman, J.~B., and Zuiderveld, K. (1987).
+\newblock Adaptive histogram equalization and its variations.
+\newblock {\em Computer vision, graphics, and image processing},
+  39(3):355--368.
+
+\bibitem[\protect\astroncite{Pourreza-Shahri et~al.}{2014}]{pourreza}
+Pourreza-Shahri, R., Tavakoli, M., and Kehtarnavaz, N. (2014).
+\newblock Computationally efficient optic nerve head detection in retinal
+  fundus images.
+\newblock {\em Biomedical Signal Processing and Control}, 11:63--73.
+
+\bibitem[\protect\astroncite{Priyadharsini et~al.}{2018}]{priyadharsini}
+Priyadharsini, R., Beulah, A., and Sharmila, T.~S. (2018).
+\newblock Optic disc and cup segmentation in fundus retinal images using
+  feature detection and morphological techniques.
+\newblock {\em CURRENT SCIENCE}, 115(4):748.
+
+\bibitem[\protect\astroncite{Quigley and Broman}{2006}]{ref3}
+Quigley, H.~A. and Broman, A.~T. (2006).
+\newblock The number of people with glaucoma worldwide in 2010 and 2020.
+\newblock {\em British journal of ophthalmology}, 90(3):262--267.
+
+\bibitem[\protect\astroncite{Radon}{1986}]{radon}
+Radon, J. (1986).
+\newblock On the determination of functions from their integral values along
+  certain manifolds.
+\newblock {\em IEEE transactions on medical imaging}, 5(4):170--176.
+
+\bibitem[\protect\astroncite{Rahebi and Hardala{\c{c}}}{2016}]{rahebi}
+Rahebi, J. and Hardala{\c{c}}, F. (2016).
+\newblock A new approach to optic disc detection in human retinal images using
+  the firefly algorithm.
+\newblock {\em Medical \& biological engineering \& computing},
+  54(2-3):453--461.
+
+\bibitem[\protect\astroncite{Saunders et~al.}{2015}]{saunders}
+Saunders, L.~J., Zhu, H., Bunce, C., Dor{\'e}, C.~J., Freemantle, N., Crabb,
+  D.~P., et~al. (2015).
+\newblock Ophthalmic statistics note 5: diagnostic tests—sensitivity and
+  specificity.
+\newblock {\em British Journal of Ophthalmology}, 99(9):1168--1170.
+
+\bibitem[\protect\astroncite{Shen et~al.}{2008}]{ref13}
+Shen, S.~Y., Wong, T.~Y., Foster, P.~J., Loo, J.-L., Rosman, M., Loon, S.-C.,
+  Wong, W.~L., Saw, S.-M., and Aung, T. (2008).
+\newblock The prevalence and types of glaucoma in malay people: the singapore
+  malay eye study.
+\newblock {\em Investigative ophthalmology \& visual science},
+  49(9):3846--3851.
+
+\bibitem[\protect\astroncite{Singh et~al.}{2015a}]{singh}
+Singh, M., Singh, M., and Jiwanpreet, K. (2015a).
+\newblock Glaucoma screening using compensated cup-to-disk ratio value.
+\newblock {\em International Journal of Computer Science \& Communication},
+  6(2):83--91.
+
+\bibitem[\protect\astroncite{Singh et~al.}{2015b}]{singh2}
+Singh, M., Singh, M., and JiwanpreetKaurVirk (2015b).
+\newblock Glaucoma detection techniques: A review.
+\newblock {\em Computer Science and Electronics Journals}, 6(2):66--76.
+
+\bibitem[\protect\astroncite{Sivaswamy et~al.}{2015}]{drishti}
+Sivaswamy, J., Krishnadas, S., Chakravarty, A., Joshi, G., Tabish, A.~S.,
+  et~al. (2015).
+\newblock A comprehensive retinal image dataset for the assessment of glaucoma
+  from the optic nerve head analysis.
+\newblock {\em JSM Biomedical Imaging Data Papers}, 2(1):1004.
+
+\bibitem[\protect\astroncite{Sivaswamy et~al.}{2014}]{sivaswamy2014drishti}
+Sivaswamy, J., Krishnadas, S., Joshi, G.~D., Jain, M., and Tabish, A. U.~S.
+  (2014).
+\newblock Drishti-gs: Retinal image dataset for optic nerve head (onh)
+  segmentation.
+\newblock In {\em 2014 IEEE 11th International Symposium on Biomedical Imaging
+  (ISBI)}, pages 53--56. IEEE.
+
+\bibitem[\protect\astroncite{Soares et~al.}{2016}]{soares}
+Soares, I., Castelo-Branco, M., and Pinheiro, A.~M. (2016).
+\newblock Optic disc localization in retinal images based on cumulative sum
+  fields.
+\newblock {\em IEEE journal of biomedical and health informatics},
+  20(2):574--585.
+
+\bibitem[\protect\astroncite{Soltany et~al.}{2011}]{soltany2011fast}
+Soltany, M., Zadeh, S.~T., and Pourreza, H.-R. (2011).
+\newblock Fast and accurate pupil positioning algorithm using circular hough
+  transform and gray projection.
+\newblock In {\em International Conference on Computer Communication and
+  Management}.
+
+\bibitem[\protect\astroncite{Staal et~al.}{2004}]{drive}
+Staal, J., Abr{\`a}moff, M.~D., Niemeijer, M., Viergever, M.~A., and
+  Van~Ginneken, B. (2004).
+\newblock Ridge-based vessel segmentation in color images of the retina.
+\newblock {\em IEEE transactions on medical imaging}, 23(4):501--509.
+
+\bibitem[\protect\astroncite{Stapor et~al.}{2004}]{stapor}
+Stapor, K., {\'S}witonski, A., Chrastek, R., and Michelson, G. (2004).
+\newblock Segmentation of fundus eye images using methods of mathematical
+  morphology for glaucoma diagnosis.
+\newblock In {\em International Conference on Computational Science}, pages
+  41--48. Springer.
+
+\bibitem[\protect\astroncite{Thakkar et~al.}{2017}]{isnt}
+Thakkar, K., Chauhan, K., Sudhalkar, A., Gulati, R., and Ophthalmologist, M.
+  (2017).
+\newblock Detection of glaucoma from retinal fundus images by analysing isnt
+  measurement and features of optic cup and blood vessels.
+\newblock {\em Int. J. Eng. Technol. Sci. Res. IJETSR}, 4(7):2394--3386.
+
+\bibitem[\protect\astroncite{Tham et~al.}{2014}]{ref11}
+Tham, Y.-C., Li, X., Wong, T.~Y., Quigley, H.~A., Aung, T., and Cheng, C.-Y.
+  (2014).
+\newblock Global prevalence of glaucoma and projections of glaucoma burden
+  through 2040: a systematic review and meta-analysis.
+\newblock {\em Ophthalmology}, 121(11):2081--2090.
+
+\bibitem[\protect\astroncite{Varma et~al.}{2016}]{ref4}
+Varma, R., Vajaranant, T.~S., Burkemper, B., Wu, S., Torres, M., Hsu, C.,
+  Choudhury, F., and McKean-Cowdin, R. (2016).
+\newblock Visual impairment and blindness in adults in the united states:
+  demographic and geographic variations from 2015 to 2050.
+\newblock {\em JAMA ophthalmology}, 134(7):802--809.
+
+\bibitem[\protect\astroncite{Vijaya et~al.}{2005}]{ref12}
+Vijaya, L., George, R., Paul, P.~G., Baskaran, M., Arvind, H., Raju, P.,
+  Ramesh, S.~V., Kumaramanickavel, G., and McCarty, C. (2005).
+\newblock Prevalence of open-angle glaucoma in a rural south indian population.
+\newblock {\em Investigative ophthalmology \& visual science},
+  46(12):4461--4467.
+
+\bibitem[\protect\astroncite{Walter et~al.}{2002}]{dr}
+Walter, T., Klein, J.-C., Massin, P., and Erginay, A. (2002).
+\newblock A contribution of image processing to the diagnosis of diabetic
+  retinopathy-detection of exudates in color fundus images of the human retina.
+\newblock {\em IEEE transactions on medical imaging}, 21(10):1236--1243.
+
+\bibitem[\protect\astroncite{Wankhede and Khanchandani}{2016}]{wankhede}
+Wankhede, P. and Khanchandani, K. (2016).
+\newblock Optic disc detection using histogram based template matching.
+\newblock In {\em 2016 International Conference on Signal Processing,
+  Communication, Power and Embedded System (SCOPES)}, pages 182--185. IEEE.
+
+\bibitem[\protect\astroncite{Weiss}{2008}]{weiss}
+Weiss, J.~M. (2008).
+\newblock Real-time feature detection using the hough transform.
+\newblock In {\em CAINE}, pages 168--173.
+
+\bibitem[\protect\astroncite{Wong et~al.}{2008}]{cdr}
+Wong, D., Liu, J., Lim, J., Jia, X., Yin, F., Li, H., and Wong, T. (2008).
+\newblock Level-set based automatic cup-to-disc ratio determination using
+  retinal fundus images in argali.
+\newblock In {\em 2008 30th Annual International Conference of the IEEE
+  Engineering in Medicine and Biology Society}, pages 2266--2269. IEEE.
+
+\bibitem[\protect\astroncite{Wong et~al.}{2010}]{wong}
+Wong, D. W.~K., Liu, J., Tan, N.~M., Yin, F., Lee, B.-H., and Wong, T.~Y.
+  (2010).
+\newblock Learning-based approach for the automatic detection of the optic disc
+  in digital retinal fundus photographs.
+\newblock In {\em 2010 Annual International Conference of the IEEE Engineering
+  in Medicine and Biology}, pages 5355--5358. IEEE.
+
+\bibitem[\protect\astroncite{Xiong and Li}{2016}]{xiong}
+Xiong, L. and Li, H. (2016).
+\newblock An approach to locate optic disc in retinal images with pathological
+  changes.
+\newblock {\em Computerized Medical Imaging and Graphics}, 47:40--50.
+
+\bibitem[\protect\astroncite{Xu and Tian}{2015}]{Xu2015}
+Xu, D. and Tian, Y. (2015).
+\newblock A comprehensive survey of clustering algorithms.
+\newblock {\em Annals of Data Science}, 2(2):165--193.
+
+\bibitem[\protect\astroncite{Yang}{2010}]{firefly}
+Yang, X.-S. (2010).
+\newblock {\em Nature-inspired metaheuristic algorithms}.
+\newblock Luniver press.
+
+\bibitem[\protect\astroncite{Yin et~al.}{2011}]{yin}
+Yin, F., Liu, J., Ong, S.~H., Sun, Y., Wong, D.~W., Tan, N.~M., Cheung, C.,
+  Baskaran, M., Aung, T., and Wong, T.~Y. (2011).
+\newblock Model-based optic nerve head segmentation on retinal fundus images.
+\newblock In {\em 2011 Annual International Conference of the IEEE Engineering
+  in Medicine and Biology Society}, pages 2626--2629. IEEE.
+
+\bibitem[\protect\astroncite{Youssif et~al.}{2008}]{youssif}
+Youssif, A. A.-H. A.-R., Ghalwash, A.~Z., and Ghoneim, A. A. S. A.-R. (2008).
+\newblock Optic disc detection from normalized digital fundus images by means
+  of a vessels' direction matched filter.
+\newblock {\em IEEE transactions on medical imaging}, 27(1):11--18.
+
+\bibitem[\protect\astroncite{Zhang and Zhao}{2016}]{zhang}
+Zhang, D. and Zhao, Y. (2016).
+\newblock Novel accurate and fast optic disc detection in retinal images with
+  vessel distribution and directional characteristics.
+\newblock {\em IEEE journal of biomedical and health informatics},
+  20(1):333--342.
+
+\bibitem[\protect\astroncite{Zhu and Rangayyan}{2008}]{zhu}
+Zhu, X. and Rangayyan, R.~M. (2008).
+\newblock Detection of the optic disc in images of the retina using the hough
+  transform.
+\newblock In {\em 2008 30th Annual International Conference of the IEEE
+  Engineering in Medicine and Biology Society}, pages 3546--3549. IEEE.
+
+\bibitem[\protect\astroncite{Zilly et~al.}{2017}]{zilly}
+Zilly, J., Buhmann, J.~M., and Mahapatra, D. (2017).
+\newblock Glaucoma detection using entropy sampling and ensemble learning for
+  automatic optic cup and disc segmentation.
+\newblock {\em Computerized Medical Imaging and Graphics}, 55:28--41.
+
+\end{thebibliography}

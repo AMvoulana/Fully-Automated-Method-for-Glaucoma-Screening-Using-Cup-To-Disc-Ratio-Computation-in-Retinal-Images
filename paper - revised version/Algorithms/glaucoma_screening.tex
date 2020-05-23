@@ -1,0 +1,28 @@
+\begin{algorithm}[!htbp]
+
+	\caption{Glaucoma screening}
+	\label{alg:glaucomascreening}
+	{\fontsize{10}{9}\selectfont
+	\begin{algorithmic}[1]
+		\State \textbf{Input:} OC segmentation $optic\_cup$, OD segmentation $optic\_disc$
+		\State \textbf{Output:} Glaucoma diagnosis $diag$
+		\medbreak
+		
+		\Function{glaucoma\_screening}{$optic\_cup, optic\_disc$}
+		
+		\State $area\_oc \gets$ \textsc{area\_calculation}$(optic\_cup)$
+		\State $area\_od \gets$ \textsc{area\_calculation}$(optic\_disc)$
+		\State $CDR \gets \frac{area\_oc}{area\_od}$
+		\medbreak
+		\If{$CDR > 0.63$}
+			\State $diag \gets$ 'Glaucomatous'
+		\Else
+			\State $diag \gets$ 'Healthy'
+		\EndIf
+		\medbreak
+		\State \textbf{return} $diag$
+		\EndFunction
+		
+	\end{algorithmic}
+	}
+\end{algorithm}

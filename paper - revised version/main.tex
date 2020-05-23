@@ -1,0 +1,111 @@
+ \documentclass[review]{elsarticle}
+\usepackage[utf8]{inputenc}
+\usepackage{hyperref}
+\usepackage{tikz}
+\usetikzlibrary{calc,trees,positioning,arrows,chains,shapes.geometric,%
+    decorations.pathreplacing,decorations.pathmorphing,shapes,%
+    matrix,shapes.symbols}
+\usepackage{multirow}
+\usepackage{units}
+\usepackage{caption}
+\usepackage{amsmath}
+\usepackage{natbib}
+\usepackage{color, colortbl}
+\usepackage{xcolor}
+\usepackage{algorithm}
+\usepackage[noend]{algpseudocode}
+
+
+%\usepackage{marvosym}
+\usepackage[hmarginratio=1:1,top=26mm, bottom = 26mm, columnsep=20pt, left=1.8cm, right=1.8cm]{geometry} % Document margins
+\setcounter{secnumdepth}{5}
+
+%% `Elsevier LaTeX' style
+%\bibliographystyle{elsarticle-num}
+\bibliographystyle{apa}\biboptions{authoryear}
+%\bibliographystyle{plainnat}
+%\bibliographystyle{unsrtnat}
+%%%%%%%%%%%%%%%%%%%%%%%
+
+\journal{Elsevier}
+
+
+\begin{document}
+
+\begin{frontmatter}
+
+\title{Fully Automated Method for Glaucoma Screening using robust Optic Nerve Head detection and unsupervised segmentation based Cup-to-Disc Ratio computation in Retinal Fundus Images}
+%\tnotetext[mytitlenote]{Provisional title.}
+
+%% Group authors per affiliation:
+\author[mymainaddress]{Amed Mvoulana\corref{mycorrespondingauthor}}
+\cortext[mycorrespondingauthor]{Corresponding author}
+\ead{amed.mvoulana@esiee.fr}
+\author[mymainaddress]{Rostom Kachouri} 
+\author[mymainaddress]{Mohamed Akil}
+
+
+\address[mymainaddress]{Gaspard-Monge Computer Science Laboratory, A3SI, ESIEE Paris, Université Paris-Est, Paris, France}
+
+\begin{abstract}
+
+\noindent  \textbf{Background and Objective:} Visual impairment affects a significant part of the population worldwide. Glaucoma is one of these main causes, a chronic eye disease leading to progressive vision loss. Early glaucoma screening is an important task, allowing a slowing down of the pathology spreading and avoidance of irreversible vision damages. When manual assessment by experts suffers from disadvantages, exploiting the relevant Cup-to-Disc Ratio (CDR) feature as a structural indicator to assess the damage to the optic nerve head (ONH) is an efficient way for early glaucoma screening and diagnosis. 
+\newline
+\textbf{Methods:} In this paper, we propose a new fully automated methodology for glaucoma screening and diagnosis from retinal fundus images. In order to allow eye examination in remote locations with limited access to clinical facilities, we focus in this work on the development of a computationally-efficient algorithm for further implementation on mobile devices. First, the method provides a robust optic disc (OD) detection method, combining a brightness criterion and a template matching technique, to effectively detect the optic disc (OD) even in the presence of bright lesions associated to pathological cases. Second, an efficient optic cup (OC) and optic disc (OD) segmentation is performed, using a texture-based and model-based approach. Finally, Cup-to-Disc Ratio (CDR) computation leads to glaucoma screening with a classification between healthy and glaucomatous patients.
+\newline
+\textbf{Results:} The proposed approach for glaucoma screening and diagnosis have been tested on the publicly available DRISHTI-GS1 dataset. Fifty retinal images are provided and labeled healthy or glaucomatous by trained specialists. The method achieves 98\% of accuracy on final glaucoma screening and diagnosis, and excellent performance rates on evaluation metrics, outperforming the state-of-the-art CDR feature-based approaches.
+\newline
+\textbf{Conclusions:} We proposed a fully automated method for glaucoma screening and diagnosis from retinal images. Excellent performance was obtained on final screening, classifying healthy and glaucomatous subjects. As it effectively detects the presence of glaucoma, in a low-computational manner, the approach can be part of a mobile help-diagnosis system, to improve the final diagnosis by the specialist and develop widespread visual health programs. \\
+
+\end{abstract}
+
+\begin{keyword}
+Glaucoma screening, Retinal images, Optic disc, Optic cup, Cup-to-Disc Ratio, Diagnosis.
+\end{keyword}
+
+\bigbreak
+
+\end{frontmatter}
+
+
+%---------------------------------------------
+
+\input{introduction.tex}
+
+%---------------------------------------------
+
+\section{\label{related_work}CDR-based glaucoma screening related works}
+
+\input{related_work.tex}
+
+%------------------------------------------------
+
+\section{\label{proposed_method}Proposed Method}
+
+\input{proposed_method.tex}
+
+%------------------------------------------------
+
+\section{\label{materials_results}Materials and Results}
+
+\input{materials_results.tex}
+
+%------------------------------------------------
+
+\section{\label{discussion}Discussion}
+
+\input{discussion.tex}
+
+%------------------------------------------------
+
+\section{\label{conclusion_perspectives}Conclusion and perspectives}
+
+\input{conclusion_perspectives.tex}
+
+%------------------------------------------------
+
+%\section*{References}
+
+\bibliography{references}
+
+\end{document}
